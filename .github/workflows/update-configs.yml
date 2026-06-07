@@ -23,6 +23,12 @@ jobs:
             mkdir -p configs/$size
           done
           
+          # Заголовок подписки
+          SUBSCRIPTION_TITLE="🎁improved-potatoVPN💩"
+          UPDATE_INTERVAL="1"
+          SUPPORT_URL="https://t.me/freevpnconf_bot"
+          ANNOUNCE_URL="https://t.me/freevpnconf_bot"
+          
           i=1
           for config in my-configs/*.txt; do
             if [ ! -f "$config" ]; then continue; fi
@@ -48,7 +54,23 @@ jobs:
                 if [ "$end" -gt "$total" ]; then end=$total; fi
                 
                 output="configs/${size}/${i}.${part}.txt"
-                echo "# $name | часть $part (строки $start-$end из $total)" > "$output"
+                
+                # Записываем заголовок подписки
+                cat > "$output" << EOF
+$SUBSCRIPTION_TITLE
+Обновление: $UPDATE_INTERVAL
+Безлимит: true
+Upload: 0
+Download: 0
+Total: 0
+Expire: 0
+Support: $SUPPORT_URL
+Announce: $ANNOUNCE_URL
+==================================================
+
+# $name | часть $part (строки $start-$end из $total)
+EOF
+                # Добавляем конфиги
                 sed -n "${start},${end}p" filtered.txt >> "$output"
                 
                 part=$((part + 1))
@@ -66,6 +88,12 @@ jobs:
         run: |
           echo '{' > configs/counts.json
           echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
+          echo '  "subscription": {' >> configs/counts.json
+          echo '    "title": "🎁improved-potatoVPN💩",' >> configs/counts.json
+          echo '    "update_interval": 1,' >> configs/counts.json
+          echo '    "support_url": "https://t.me/freevpnconf_bot",' >> configs/counts.json
+          echo '    "announce_url": "https://t.me/freevpnconf_bot"' >> configs/counts.json
+          echo '  },' >> configs/counts.json
           
           for size in 50 100 200 300; do
             echo "  \"$size\": {" >> configs/counts.json
