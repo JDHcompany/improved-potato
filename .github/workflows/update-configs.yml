@@ -1,4 +1,4 @@
-name: Нарезка моих конфигов
+name: Нарезка конфигов
 
 on:
   push:
@@ -16,10 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Нарезка каждого конфига на части
+      - name: Нарезка каждого конфига на части (50, 100, 200, 300)
         run: |
-          mkdir -p configs
-          MAX=300
+          # Создаём папки
+          for size in 50 100 200 300; do
+            mkdir -p configs/$size
+          done
           
           i=1
           for config in my-configs/*.txt; do
@@ -28,6 +30,7 @@ jobs:
             name=$(basename "$config" .txt)
             echo "Режу: $name"
             
+            # Извлекаем VLESS строки
             grep -E '^(vless|trojan|vmess|ss|hy2)://' "$config" > filtered.txt || true
             total=$(wc -l < filtered.txt)
             
@@ -36,19 +39,22 @@ jobs:
               continue
             fi
             
-            part=1
-            start=1
-            while [ "$start" -le "$total" ]; do
-              end=$((start + MAX - 1))
-              if [ "$end" -gt "$total" ]; then end=$total; fi
-              
-              output="configs/${i}.${part}.txt"
-              echo "# $name | часть $part (строки $start-$end из $total)" > "$output"
-              sed -n "${start},${end}p" filtered.txt >> "$output"
-              
-              echo "  создан ${i}.${part}.txt: $((end-start+1)) строк"
-              part=$((part + 1))
-              start=$((end + 1))
+            # Для каждого размера нарезки
+            for size in 50 100 200 300; do
+              part=1
+              start=1
+              while [ "$start" -le "$total" ]; do
+                end=$((start + size - 1))
+                if [ "$end" -gt "$total" ]; then end=$total; fi
+                
+                output="configs/${size}/${i}.${part}.txt"
+                echo "# $name | часть $part (строки $start-$end из $total)" > "$output"
+                sed -n "${start},${end}p" filtered.txt >> "$output"
+                
+                part=$((part + 1))
+                start=$((end + 1))
+              done
+              echo "  ${size}: создано $((part-1)) файлов"
             done
             
             i=$((i + 1))
@@ -56,18 +62,24 @@ jobs:
           
           echo "Готово! Обработано конфигов: $((i-1))"
 
-      - name: Создать counts.json для сайта
+      - name: Создать counts.json
         run: |
           echo '{' > configs/counts.json
           echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
-          for file in configs/*.txt; do
-            if [ -f "$file" ]; then
-              name=$(basename "$file" .txt)
-              count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
-              echo "  \"$name\": $count," >> configs/counts.json
-            fi
+          
+          for size in 50 100 200 300; do
+            echo "  \"$size\": {" >> configs/counts.json
+            for file in configs/$size/*.txt; do
+              if [ -f "$file" ]; then
+                name=$(basename "$file" .txt)
+                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
+                echo "    \"$name\": $count," >> configs/counts.json
+              fi
+            done
+            echo "  }," >> configs/counts.json
           done
-          total=$(cat configs/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
+          
+          total=$(cat configs/*/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
           echo '  "totalUnique": '$total'' >> configs/counts.json
           echo '}' >> configs/counts.json
           echo "totalUnique: $total"
