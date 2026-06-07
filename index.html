@@ -134,9 +134,9 @@
 
   <div class="info-bar" id="infoBar">
     <div class="info-item">🔄 Обновление: 1 час</div>
-    <div class="info-item">💾 Безлимит</div>
-    <div class="info-item">📢 Support: <a href="#" id="supportLink" target="_blank">Telegram</a></div>
-    <div class="info-item">📢 Announce: <a href="#" id="announceLink" target="_blank">Telegram</a></div>
+    <div class="info-item">💾 Безлимит / Навсегда</div>
+    <div class="info-item">📢 Поддержка: <a href="#" id="supportLink" target="_blank">Telegram</a></div>
+    <div class="info-item">📢 Объявление: <a href="#" id="announceLink" target="_blank">Telegram</a></div>
   </div>
 
   <div class="stats">
@@ -172,7 +172,7 @@
       
       document.getElementById('totalCount').innerText = allData.totalUnique || 0;
       
-      // Обновляем ссылки из JSON
+      // Берём ссылки из JSON
       if (allData.subscription) {
         const sub = allData.subscription;
         if (sub.support_url) {
@@ -195,6 +195,7 @@
       renderConfigs();
     } catch(e) {
       document.getElementById('configsList').innerHTML = '<div class="card">⚠️ Ошибка загрузки. Запустите Actions вручную.</div>';
+      console.error(e);
     }
   }
 
@@ -232,7 +233,6 @@
     });
   }
 
-  // Фильтры
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
