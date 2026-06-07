@@ -100,6 +100,10 @@
     .loading, .error { text-align: center; padding: 3rem; }
     .error { color: #f87171; background: #2a1a1a; border-radius: 1rem; }
     .debug { font-size: 0.7rem; color: #52525b; margin-top: 1rem; word-break: break-all; }
+    .retry-btn {
+      background: #3f3f46;
+      margin-top: 1rem;
+    }
     
     @media (max-width: 700px) {
       .card { flex-direction: column; align-items: stretch; }
@@ -133,75 +137,97 @@
 </div>
 
 <script>
-  // Функция для определения базового пути
-  function getBasePath() {
-    // Если страница открыта через GitHub Pages для проекта (например, /repo-name/index.html)
-    let path = window.location.pathname;
-    let base = path.substring(0, path.lastIndexOf('/') + 1);
-    // Если это корень (например, / или /index.html), то base будет '/'
-    // Дополнительно можно проверить наличие configs/ в нескольких вариантах
-    return base;
+  // Список возможных путей для поиска configs/
+  // Порядок важен: сначала относительный от текущей страницы, потом корневой, потом прямой деплой
+  function getPossibleBaseUrls() {
+    const origin = window.location.origin;
+    const path = window.location.pathname;
+    // Текущий путь к директории, где лежит index.html
+    let currentDir = path.substring(0, path.lastIndexOf('/') + 1);
+    if (currentDir === '') currentDir = '/';
+    
+    const urls = [
+      origin + currentDir + 'configs/',           // /repo-name/configs/ или /configs/
+      origin + '/configs/',                       // /configs/ (если сайт в корне)
+      origin + currentDir + 'configs/',           // дубль, но оставим
+    ];
+    // Убираем дубликаты
+    return [...new Set(urls)];
   }
 
-  const basePath = getBasePath();
-  // Пробуем относительный путь от корня сайта
-  const baseUrl = window.location.origin + basePath + 'configs/';
-  // Также пробуем абсолютный путь (для проектов GitHub Pages)
-  const fallbackUrl = window.location.origin + '/configs/';
-  
+  let activeBaseUrl = null;
   let allData = null;
   let currentSize = '50';
-  let activeUrl = baseUrl; // будет изменён после успешной загрузки
 
   async function loadData() {
     const container = document.getElementById('configsList');
-    container.innerHTML = '<div class="loading">Загрузка конфигов...</div>';
+    const totalSpan = document.getElementById('totalCount');
+    totalSpan.innerText = '—';
+    container.innerHTML = '<div class="loading">🔍 Поиск configs/counts.json...</div>';
     
-    // Пробуем основной путь
-    let success = false;
-    for (const tryUrl of [baseUrl, fallbackUrl]) {
+    const possibleUrls = getPossibleBaseUrls();
+    let lastError = null;
+    
+    for (const base of possibleUrls) {
       try {
-        const url = tryUrl + 'counts.json?t=' + Date.now();
-        console.log('Пробуем загрузить:', url);
-        const res = await fetch(url);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const text = await res.text();
-        allData = JSON.parse(text);
-        activeUrl = tryUrl;
-        success = true;
-        console.log('Успешно загружено с:', activeUrl);
+        const jsonUrl = base + 'counts.json?t=' + Date.now();
+        console.log('Пробуем загрузить:', jsonUrl);
+        const response = await fetch(jsonUrl);
+        if (!response.ok) throw new Error(`HTTP ${response.status} ${response.statusText}`);
+        const text = await response.text();
+        // Пробуем распарсить JSON
+        let data;
+        try {
+          data = JSON.parse(text);
+        } catch(e) {
+          throw new Error('Ошибка парсинга JSON: ' + e.message + '\nПервые 200 символов: ' + text.substring(0,200));
+        }
+        // Успех
+        activeBaseUrl = base;
+        allData = data;
+        console.log('Успешно загружено с:', activeBaseUrl);
         break;
-      } catch (e) {
-        console.warn('Не удалось загрузить с', tryUrl, e);
+      } catch (err) {
+        console.warn('Не удалось загрузить с', base, err);
+        lastError = err;
       }
     }
     
-    if (!success) {
+    if (!allData) {
       container.innerHTML = `<div class="error">
         ❌ Не удалось загрузить configs/counts.json<br><br>
-        Проверьте:<br>
-        1. Запущен ли GitHub Actions (см. вкладка Actions).<br>
-        2. Есть ли папка configs/ в репозитории.<br>
-        3. Включён ли GitHub Pages (Settings → Pages → Branch: main).<br>
-        4. Открыта ли страница через HTTPS (не file://).<br>
-        <div class="debug">Пытались загрузить: ${baseUrl}counts.json и ${fallbackUrl}counts.json</div>
+        Проверьте:
+        <ul style="text-align: left; display: inline-block; margin-top: 10px;">
+          <li>✅ Запущен ли GitHub Actions (вкладка Actions)</li>
+          <li>✅ Есть ли папка configs/ с подпапками 50/, 100/, 200/, 300/</li>
+          <li>✅ Включён ли GitHub Pages (Settings → Pages → Branch: main, /root)</li>
+          <li>✅ Открыта ли страница через HTTPS (не file://)</li>
+        </ul>
+        <div class="debug">
+          Пытались загрузить:<br>
+          ${possibleUrls.map(u => u + 'counts.json').join('<br>')}
+          <br><br>
+          Последняя ошибка: ${lastError ? lastError.message : 'неизвестно'}
+        </div>
+        <button class="retry-btn" onclick="location.reload()">🔄 Повторить загрузку</button>
       </div>`;
       return;
     }
     
-    // Отображаем общее количество
-    document.getElementById('totalCount').innerText = allData.totalUnique || 0;
+    // Отображаем общее количество уникальных серверов
+    const totalUnique = allData.totalUnique || 0;
+    totalSpan.innerText = totalUnique.toLocaleString();
     
     if (allData.updated) {
       const date = new Date(allData.updated);
-      document.getElementById('updateTime').innerHTML = '🕐 Последнее обновление: ' + date.toLocaleString('ru-RU');
+      document.getElementById('updateTime').innerHTML = '🕐 Обновлено: ' + date.toLocaleString('ru-RU');
     } else {
       document.getElementById('updateTime').innerHTML = '🕐 Время обновления неизвестно';
     }
     
     renderConfigs();
   }
-
+  
   function renderConfigs() {
     const sizeData = allData[currentSize];
     if (!sizeData || typeof sizeData !== 'object') {
@@ -219,22 +245,22 @@
     container.innerHTML = '<div class="configs-grid"></div>';
     const grid = container.querySelector('.configs-grid');
     
-    files.forEach(([name, count]) => {
-      const fileUrl = `${activeUrl}${currentSize}/${name}.txt`;
+    for (const [name, count] of files) {
+      const fileUrl = `${activeBaseUrl}${currentSize}/${name}.txt`;
       const card = document.createElement('div');
       card.className = 'card';
       card.innerHTML = `
         <div class="card-info">
-          <h3>📁 ${name}.txt</h3>
+          <h3>📁 ${escapeHtml(name)}.txt</h3>
           <div class="size">🔹 ${Number(count).toLocaleString()} конфигов в файле</div>
         </div>
         <div class="url">${escapeHtml(fileUrl)}</div>
         <button onclick="copyUrl('${escapeHtml(fileUrl)}')">📋 Копировать</button>
       `;
       grid.appendChild(card);
-    });
+    }
   }
-
+  
   function escapeHtml(str) {
     return str.replace(/[&<>]/g, function(m) {
       if (m === '&') return '&amp;';
@@ -243,7 +269,7 @@
       return m;
     });
   }
-
+  
   window.copyUrl = function(url) {
     navigator.clipboard.writeText(url).then(() => {
       alert('✅ Ссылка скопирована!');
@@ -251,17 +277,20 @@
       alert('❌ Не удалось скопировать');
     });
   };
-
-  // Фильтры
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentSize = btn.dataset.size;
-      if (allData) renderConfigs();
+  
+  // Навешиваем фильтры
+  function initFilters() {
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentSize = btn.dataset.size;
+        if (allData) renderConfigs();
+      });
     });
-  });
-
+  }
+  
+  initFilters();
   loadData();
 </script>
 </body>
