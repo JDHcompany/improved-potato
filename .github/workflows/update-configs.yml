@@ -1,0 +1,81 @@
+name: Нарезка моих конфигов
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  split-configs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Нарезка каждого конфига на части
+        run: |
+          mkdir -p configs
+          MAX=300
+          
+          i=1
+          for config in my-configs/*.txt; do
+            if [ ! -f "$config" ]; then continue; fi
+            
+            name=$(basename "$config" .txt)
+            echo "Режу: $name"
+            
+            grep -E '^(vless|trojan|vmess|ss|hy2)://' "$config" > filtered.txt || true
+            total=$(wc -l < filtered.txt)
+            
+            if [ "$total" -eq 0 ]; then
+              echo "  нет конфигов, пропускаю"
+              continue
+            fi
+            
+            part=1
+            start=1
+            while [ "$start" -le "$total" ]; do
+              end=$((start + MAX - 1))
+              if [ "$end" -gt "$total" ]; then end=$total; fi
+              
+              output="configs/${i}.${part}.txt"
+              echo "# $name | часть $part (строки $start-$end из $total)" > "$output"
+              sed -n "${start},${end}p" filtered.txt >> "$output"
+              
+              echo "  создан ${i}.${part}.txt: $((end-start+1)) строк"
+              part=$((part + 1))
+              start=$((end + 1))
+            done
+            
+            i=$((i + 1))
+          done
+          
+          echo "Готово! Обработано конфигов: $((i-1))"
+
+      - name: Создать counts.json для сайта
+        run: |
+          echo '{' > configs/counts.json
+          echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
+          for file in configs/*.txt; do
+            if [ -f "$file" ]; then
+              name=$(basename "$file" .txt)
+              count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
+              echo "  \"$name\": $count," >> configs/counts.json
+            fi
+          done
+          total=$(cat configs/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
+          echo '  "totalUnique": '$total'' >> configs/counts.json
+          echo '}' >> configs/counts.json
+          echo "totalUnique: $total"
+
+      - name: Сохранить в репозиторий
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add configs/
+          git diff --staged --quiet || git commit -m "Нарезка конфигов $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
