@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 18.1 | часть 2 (строки 51-100 из 181)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi6Iux5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi8J+HuvCfh7gg576O5Zu9VVMgMjI0Iiwic2VjdXJpdHkiOiJhZXMtMTI4LWdjbSJ9
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi6Iux5Zu9Iiwic2VjdXJpdHkiOiJhdXRvIn0=
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi576O5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi576O5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi576O5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi576O5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi576O5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi8J+HuvCfh7ggVVMiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.36.248:443?fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=api.digital-help-prd.autodesk.com#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%2003
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com#%E5%BE%B7%E5%9B%BD-2001
+vless://f4df3096-8568-4c86-83d2-985623035724@185.66.68.90:10444?flow=xtls-rprx-vision&fp=chrome&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=max.ru#%E7%BE%8E%E5%9B%BD
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?flow=xtls-rprx-vision&fp=edge&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&security=reality&sid=7a3f9e2b1c8d4f6a&sni=it.s3-cloud.xyz#%E8%8B%B1%E5%9B%BD-2003
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:46424?security=tls&sni=de.01.naiun.bilibili.com#%E5%BE%B7%E5%9B%BD-2002
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:47909?security=tls&sni=is.01.naiun.bilibili.com#%E5%86%B0%E5%B2%9B-2002
+vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?flow=xtls-rprx-vision-udp443&fp=random&security=tls&sni=s646.okgg.top#%E7%BE%8E%E5%9B%BD
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi6Iux5Zu9KCkiLCJzZWN1cml0eSI6ImF1dG8ifQ==
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
+vmess://eyJhZGQiOiJ2MTAuaGRhY2QuY29tIiwiYWlkIjoyLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsInBvcnQiOjMwODA3LCJwcyI6IvCfh63wn4ewX0hLX+S4reWbvemmmea4ryIsInNlY3VyaXR5IjoiYXV0byJ9
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BC_TW_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?security=tls&sni=az.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A6%F0%9F%87%BF_AZ_%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%AC%F0%9F%87%AA_GE_%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.14:443?flow=xtls-rprx-vision&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&security=reality&sid=7a3f9e2b1c8d4f6a&sni=jp.s3-cloud.org#%E8%8B%B1%E5%9B%BD
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.9:443?flow=xtls-rprx-vision&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&security=reality&sid=7a3f9e2b1c8d4f6a&sni=jp.s3-cloud.org#%E8%8B%B1%E5%9B%BD
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@jp.s3-cloud.org:443?flow=xtls-rprx-vision&fp=chrome&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&security=reality&sid=7a3f9e2b1c8d4f6a&sni=jp.s3-cloud.org#%E7%BE%8E%E5%9B%BD
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%E7%BE%8E%E5%9B%BD
+vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?flow=xtls-rprx-vision-udp443&fp=random&security=tls&sni=s646.okgg.top#%E7%BE%8E%E5%9B%BD
+vless://35762c02-ff2b-4526-b41b-e96e5d99528b@transparency.cloud-fr.appcore.org:34754?flow=xtls-rprx-vision&fp=firefox&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&security=reality&sid=c9eb0359fac0c345&sni=yahoo.com#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=chrome&host=r1.mizulina.top&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&security=tls#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=edge&host=r1.mizulina.top&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%E8%8B%B1%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top#%E4%BF%84%E7%BD%97%E6%96%AF
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@78.17.147.65:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com#%E7%BE%8E%E5%9B%BD

@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 20.2 | часть 27 (строки 1301-1350 из 1986)
+trojan://%43%6f%6e%66%69%67%30%70%6c%75%73@45.130.125.160:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fin-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=investors.spotify.com.cyylr.eu.cc#
+trojan://%43%6f%6e%66%69%67%30%70%6c%75%73@45.130.125.160:443?path=%2Fin-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=investors.spotify.com.cyylr.eu.cc#
+trojan://%43%6f%6e%66%69%67%30%70%6c%75%73@45.130.125.160:443?path=/in-pdr&security=tls&host=investors.spotify.com.cyylr.eu.cc&allowinsecure=0&type=ws&sni=investors.spotify.com.cyylr.eu.cc#
+trojan://%56%50%4e%43%55%53%54%4f%4d%49%5a%#
+trojan://%56%50%4e%43%55%53%54%4f%4d%49%5a%45@45.81.58.159:443?type=ws&security=tls&path=%2Flousyrestateme%3Fed%3D2048&sni=www.godaddy.cc.cd&fp=chrome&allowInsecure=0#
+trojan://%61%75%74%6f@188.114.96.0:443?security=tls&sni=tro%6aanf%72ee-%376s.%70age%73.de%76&type=ws&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&fp=ran%64omi%7aed#
+trojan://%6D%69%74%69%76%70%6E@104.16.75.127:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2F%6D%69%74%69%76%70%6E%2Fproduction%2Fsettings&sni=www.www.www.www.95r.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
+trojan://%6D%69%74%69%76%70%6E@104.16.75.127:443?type=ws&security=tls&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2F%6D%69%74%69%76%70%6E%2Fproduction%2Fsettings&sni=www.www.www.www.95r.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
+trojan://%6D%69%74%69%76%70%6E@104.18.32.47:2053?sni=cdn.linkman1.ir&peer=cdn.linkman1.ir&security=tls#
+trojan://%6d%69%74%69%76%70%#
+trojan://%6d%69%74%69%76%70%6e@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=h2&host=dash.linko1.ir&fp=chrome&allowinsecure=0&type=ws&sni=dash.linko1.ir#
+trojan://%6d%69%74%69%76%70%6e@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction&security=tls&alpn=http/1.1&fp=edge&allowinsecure=0&type=ws&sni=%77%77%77%2e%6d%69%74%69%76%70%6e.in.net#
+trojan://%6d%69%74%69%76%70%6e@208.103.161.175:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=cdn.iranpoems.ir&type=ws&allowInsecure=0&sni=cdn.iranpoems.ir#
+trojan://%6d%69%74%69%76%70%6e@208.103.161.39:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=cdn.iranpoems.ir&type=ws&allowInsecure=0&sni=cdn.iranpoems.ir#
+trojan://%6d%69%74%69%76%70%6e@45.130.125.76:443?security=tls&type=ws&sni=www.app-cloud.ir&path=/?ed=2048#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@103.31.4.99:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.18.135.255:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.18.19.1:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.19.21.133:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.21.76.238:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.25.138.173:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.96.38:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.96.40:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.97.114:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%F0%9F%A4%A0%4A%4B%56%50%4E%5F%4A%4B%56%50%4E%F0%9F%A4%A0@www.speedtest.net:80?path=%2F%54%45%4C%45%47%52%41%4D%5F%42%59%41%5F%43%48%41%4E%45%4C%5F%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%2D%4A%4B%56%50%4E%3Fed%3D2048&security=none&host=joker.ahang-alpha.ir&type=ws#
+trojan://%F0%9F%A4%A0%4A%4B%56%50%4E%5F%4A%4B%56%50%4E%F0%9F%A4%A0@www.speedtest.net:80?path=%2FTELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2048&security=none&host=support.zoom.us.www.speedtest.net&type=ws&sni=support.zoom.us.www.speedtest.net#
+trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#
+trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=support.zoom.us.028.eLECtRocEllco-Cf-028.worKErS.dev&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.028.eLECtRocEllco-Cf-028.worKErS.dev#
+trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&;security=tls&;alpn=http/1.1&;insecure=0&;host=028.electrocellco-cf-028.workers.dev&;fp=chrome&;type=ws&;allowInsecure=0&;sni=028.eLECtRocEllco-Cf-028.worKErS.dev#
+trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#
+trojan://****%86#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@2.selfupay.com:443?allowInsecure=0#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@jgwdb1.gaox.ml:443?allowInsecure=0#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@p-server-02.selfupay.com:443?allowInsecure=0#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@upay.com:443?allowInsecure=0#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@usa-server-02.selfupay.com:443?allowInsecure=0#
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@ver-02.selfupay.com:443?allowInsecure=0#
+trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#
+trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=support.zoom.us.speedtest.net#
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#
+trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000000@18.238.109.41:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000000@3.168.86.38:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000000@3.168.86.96:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&host=support.zoom.us.masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=support.zoom.us.masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#
+trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.liciba7155.workers.dev#
+trojan://000dcaea-05cd-4c18-80fd-4fc7ee2220f8@1j8p01.abzoones.xyz:36811#
