@@ -1,108 +1,56 @@
-name: Нарезка конфигов
-
-on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  split-configs:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Нарезка каждого конфига на части (50, 100, 200, 300)
-        run: |
-          for size in 50 100 200 300; do
-            mkdir -p configs/$size
-          done
+- name: Нарезка конфигов для Happ с метаданными
+  run: |
+    # Создаём папки
+    for size in 50 100 200 300; do
+      mkdir -p configs/$size
+    done
+    
+    i=1
+    for config in my-configs/*.txt; do
+      if [ ! -f "$config" ]; then continue; fi
+      
+      name=$(basename "$config" .txt)
+      echo "Режу: $name"
+      
+      # Извлекаем строки конфигов
+      grep -E '^(vless|trojan|vmess|ss|hy2)://' "$config" > filtered.txt || true
+      total=$(wc -l < filtered.txt)
+      
+      if [ "$total" -eq 0 ]; then
+        echo "  нет конфигов, пропускаю"
+        continue
+      fi
+      
+      # Для каждого размера нарезки
+      for size in 50 100 200 300; do
+        part=1
+        start=1
+        while [ "$start" -le "$total" ]; do
+          end=$((start + size - 1))
+          if [ "$end" -gt "$total" ]; then end=$total; fi
           
-          i=1
-          for config in my-configs/*.txt; do
-            if [ ! -f "$config" ]; then continue; fi
-            
-            name=$(basename "$config" .txt)
-            echo "Режу: $name"
-            
-            grep -E '^(vless|trojan|vmess|ss|hy2)://' "$config" > filtered.txt || true
-            total=$(wc -l < filtered.txt)
-            
-            if [ "$total" -eq 0 ]; then
-              echo "  нет конфигов, пропускаю"
-              continue
-            fi
-            
-            for size in 50 100 200 300; do
-              part=1
-              start=1
-              while [ "$start" -le "$total" ]; do
-                end=$((start + size - 1))
-                if [ "$end" -gt "$total" ]; then end=$total; fi
-                
-                output="configs/${size}/${i}.${part}.txt"
-                
-                cat > "$output" << EOF
-# 🎁 improved-potatoVPN💩
-# Интервал обновления: 1
-# Общий трафик: 0 (безлимит)
-# Срок действия: 0 (навсегда)
-# Поддержка: https://t.me/freevpnconf_bot
-# Объявление: 🔥 Лучшие конфиги бесплатно — https://t.me/freevpnconf_bot 🔥
-# ===============================================
+          output="configs/${size}/${i}.${part}.txt"
+          
+          # Заголовок подписки в формате Happ (plain text, без base64)
+          cat > "$output" << EOF
+#profile-title: 🎁improved-potatoVPN💩
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/freevpnconf_bot
+#announce: Реклама моего бота: https://t.me/freevpnconf_bot
+
 # $name | часть $part (строки $start-$end из $total)
 EOF
-                sed -n "${start},${end}p" filtered.txt >> "$output"
-                
-                part=$((part + 1))
-                start=$((end + 1))
-              done
-              echo "  ${size}: создано $((part-1)) файлов"
-            done
-            
-            i=$((i + 1))
-          done
+          # Добавляем сами конфиги
+          sed -n "${start},${end}p" filtered.txt >> "$output"
           
-          echo "Готово! Обработано конфигов: $((i-1))"
-
-      - name: Создать counts.json
-        run: |
-          echo '{' > configs/counts.json
-          echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
-          echo '  "subscription": {' >> configs/counts.json
-          echo '    "name": "🎁 improved-potatoVPN💩",' >> configs/counts.json
-          echo '    "update_interval": 1,' >> configs/counts.json
-          echo '    "support_url": "https://t.me/freevpnconf_bot",' >> configs/counts.json
-          echo '    "announce_url": "https://t.me/freevpnconf_bot"' >> configs/counts.json
-          echo '  },' >> configs/counts.json
-          
-          for size in 50 100 200 300; do
-            echo "  \"$size\": {" >> configs/counts.json
-            for file in configs/$size/*.txt; do
-              if [ -f "$file" ]; then
-                name=$(basename "$file" .txt)
-                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
-                echo "    \"$name\": $count," >> configs/counts.json
-              fi
-            done
-            sed -i.bak '$ s/,$//' configs/counts.json && rm -f configs/counts.json.bak
-            echo "  }," >> configs/counts.json
-          done
-          
-          total=$(cat configs/*/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
-          sed -i.bak '$ s/,$//' configs/counts.json && rm -f configs/counts.json.bak
-          echo '  "totalUnique": '$total'' >> configs/counts.json
-          echo '}' >> configs/counts.json
-          echo "totalUnique: $total"
-
-      - name: Сохранить в репозиторий
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add configs/
-          git diff --staged --quiet || git commit -m "Нарезка конфигов $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          part=$((part + 1))
+          start=$((end + 1))
+        done
+        echo "  ${size}: создано $((part-1)) файлов"
+      done
+      
+      i=$((i + 1))
+    done
+    
+    echo "Готово! Обработано конфигов: $((i-1))"
