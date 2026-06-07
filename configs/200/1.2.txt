@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 2 (строки 201-400 из 13792)
 vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?security=none&type=ws&path=%2F&host=h22.amoosias.site&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI%20%F0%9F%A7%AD%205.6MB%2Fs
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?security=tls&type=ws&path=%2F%3Fed%3D2560%26Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%209.7MB%2Fs

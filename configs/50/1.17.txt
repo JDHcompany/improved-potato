@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 17 (строки 801-850 из 13792)
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#@meliproxyy

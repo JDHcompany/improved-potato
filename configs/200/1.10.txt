@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 10 (строки 1801-2000 из 13792)
 vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@89.23.103.249:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66#%F0%9F%AB%A775%40oneclickvpnkeys
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#%F0%9F%AB%A790%40oneclickvpnkeys

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 68 (строки 13401-13600 из 13792)
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655/?type=tcp&encryption=none&flow=#%F0%9F%8E%8117%40oneclickvpnkeys
 vless://ae438428-104c-4e6c-af20-03f4f7530515@5.75.196.2:8010/?encryption=none&flow=&host=fast.com&type=tcp&headerType=http#%F0%9F%8E%8123%40oneclickvpnkeys

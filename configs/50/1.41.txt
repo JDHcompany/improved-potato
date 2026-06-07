@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 41 (строки 2001-2050 из 13792)
 ss://fe-_ve-_vWvvv73vv71577-9H--_vXtv77-977-977-9Zu-_vXXvv70677-9Tjk@104.17.162.123:443#https%3A%2F%2Ft.me%2Fallproconf
 ss://bnVsbDpudWxs@51.250.9.25:7443#https%3A%2F%2Ft.me%2Fallproconf

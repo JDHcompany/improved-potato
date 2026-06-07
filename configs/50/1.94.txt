@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 94 (строки 4651-4700 из 13792)
 vless://bf4f7317-4ea1-d9b0-4538-9622f9af1f0d@tun.maf-fars.ir:2087/?encryption=none&flow=&host=nobitex.ir&type=tcp&headerType=http#Telegram
 vless://bfdc22f1-7e63-43f5-94dd-2befa32a0720@cd4.reata.ir:2053/?type=ws&encryption=none&flow=&host=api5.diiginet.ir&security=tls&sni=api5.diiginet.ir&fp=chrome#%40canfingV2rayNG

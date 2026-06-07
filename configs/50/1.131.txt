@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 131 (строки 6501-6550 из 13792)
 trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@greencloudvps.com:443/?type=ws&host=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com&path=%2Fimages&security=tls&sni=ush9pgjbr1t6mxmbwe.jjjiedian6j4tblb.com#%E2%9B%88%EF%B8%8F51%40oneclickvpnkeys
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#%E2%9B%88%EF%B8%8F52%40oneclickvpnkeys

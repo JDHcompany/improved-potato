@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 238 (строки 11851-11900 из 13792)
 vless://4beef150-d70b-4249-bf70-f5e66d635445@94.131.109.132:443/?type=ws&encryption=none&flow=&host=almon3.h3in0.top&path=%2F23491%2Fh3ino#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.19.185:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 42 (строки 4101-4200 из 13792)
 vmess://eyJhZGQiOiIxMDQuMzEuMTYuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGFiZTk0OTYtNWUyNC00ZTQ5LWI1NjYtZGNmODYxMTYwMTdkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2k5OUxndlNhc2xic1BMTFFRN2o2WiIsInBvcnQiOiI4MCIsInBzIjoi8J+PgVJFTEFZLTEwNC4zMS4xNi4yNS05MDMwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMzEuMTYuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIzYTIxZGVmLTVmY2MtNDdhOC1hNmEwLWEzNGUyOWQ1Mjg4YSIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3M1MTA2OCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfj4FSRUxBWS0xMDQuMzEuMTYuMjE2LTkwMzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0

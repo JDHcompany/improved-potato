@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 42 (строки 2051-2100 из 13792)
 vless://4bf691b7-4ab8-4849-b9b7-35d9ebf3480f@87.107.164.202:51811/?encryption=none&flow=&host=myket.ir&type=tcp&headerType=http#https%3A%2F%2Ft.me%2Fallproconf
 ss://bnVsbDpudWxs@rubygems.org:80#https%3A%2F%2Ft.me%2Fallproconf

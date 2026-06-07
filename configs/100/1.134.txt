@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 134 (строки 13301-13400 из 13792)
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443/?type=grpc&encryption=none&flow=#%F0%9F%9F%A910%40oneclickvpnkeys
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.39.30:443/?type=grpc&encryption=none&flow=#%F0%9F%9F%A95%40oneclickvpnkeys

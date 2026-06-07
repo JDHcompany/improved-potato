@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 246 (строки 12251-12300 из 13792)
 vless://d8240505-8848-4ed1-c17d-9dc855d9b2c7@162.159.130.67:443/?type=ws&encryption=none&flow=&host=hiddifyreplace1.freeairlaines.com&path=%2Fd8240505-8848-4ed1-c17d-9dc855d9b2c7&security=tls&sni=hiddifyreplace1.freeairlaines.com&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://bacf59bb-901a-4050-b239-f392e6f00310@104.16.201.94:443/?type=ws&encryption=none&flow=&host=hiddifyrepl...&security=tls&sni=hiddifyreplace1.freeairlaines.com

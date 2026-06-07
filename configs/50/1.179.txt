@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 179 (строки 8901-8950 из 13792)
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80/?type=ws&encryption=none&flow=&host=barayeiranmahsang.juveitaly.dpdns.org&path=%2FBarayeiranmahsang%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560#%40HiByeVPNN
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080/?type=ws&encryption=none&flow=&host=v2ngsupply2.ip-ddns.com&path=%2FijiDwDw8BcM9ieHc%3Fed%3D2560#%40HiByeVPNN%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5

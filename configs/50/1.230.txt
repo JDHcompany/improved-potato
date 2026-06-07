@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 230 (строки 11451-11500 из 13792)
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNi42MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjU4LnRodXIuc3RvcmUiLCJpZCI6ImMxODM2MzZkLWExNzQtNDdiOS1jY2Y4LTM0NDJlNmUxZWM4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii90Lm1lL3JlZGJ1bGx2cG5zcyIsInBvcnQiOiIyMDg2IiwicHMiOiJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 trojan://auto@104.20.17.177:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram

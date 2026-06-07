@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 167 (строки 8301-8350 из 13792)
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.75:443/?type=ws&encryption=none&flow=&host=v2nGfaSt-Jcr.pagEs.Dev
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443/?type=ws&encryption=none&flow=&host=a.xn--i-sx6a60i.us.kg&security=tls&sni=a.xn--i-sx6a60i.us.kg

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 130 (строки 6451-6500 из 13792)
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.254:443/?type=ws&encryption=none&flow=&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1#%F0%9F%AA%AC10%40oneclickvpnkeys
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.71:443/?type=ws&encryption=none&flow=&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1&fp=chrome#%F0%9F%AA%AC66%40oneclickvpnkeys

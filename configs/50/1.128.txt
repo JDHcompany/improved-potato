@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 128 (строки 6351-6400 из 13792)
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@103.160.204.39:443/?type=ws&encryption=none&flow=&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1#%40Hope_Net-join-us-on-Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@49.12.210.182:80/?type=ws&encryption=none&flow=&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#%40Hope_Net-join-us-on-Telegram

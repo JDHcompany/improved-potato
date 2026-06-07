@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 16 (строки 751-800 из 13792)
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#%40vpnfail_bot%20free%v2ray
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#%40vpnfail_bot%20free%v2ray

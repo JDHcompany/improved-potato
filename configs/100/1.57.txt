@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 57 (строки 5601-5700 из 13792)
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.223.79:2087/?type=ws&encryption=none&flow=&host=nwqsh.aleppo-usepiqiu.info&path=%2Fmorano&security=tls&sni=nwqsh.aleppo-usepiqiu.info#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.39:2083/?type=ws&encryption=none&flow=&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&security=tls&sni=hAstI.freeAIrLAINEs.coM&fp=chrome#%40Hope_Net-join-us-on-Telegram

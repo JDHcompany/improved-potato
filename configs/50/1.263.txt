@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 263 (строки 13101-13150 из 13792)
 vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.18.42.238:2053/?type=grpc&encryption=none&flow=&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp...
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@162.159.138.171:443/?type=grpc&encryption=none&flow=&serviceName=BuT9Wfa6u5bLQUgA9&security=tls&sni=noodturk.parsianboton.ir#%40Hope_Net-join-us-on-Telegram

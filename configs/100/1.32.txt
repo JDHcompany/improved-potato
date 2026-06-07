@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 32 (строки 3101-3200 из 13792)
 vmess://eyJhZGQiOiJhaC55ZDAxLnBhb3Bhb2Nsb3VkLmN5b3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFoLnlkMDEucGFvcGFvY2xvdWQuY3lvdSIsImlkIjoiZDhjNWI0ODYtODRiYi0zODg3LWExZDktMDc0NTVlYTYwOGYyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwicG9ydCI6IjEwMDA5IiwicHMiOiLwn4e68J+HuFVTLTEwMy4yMjQuMTgyLjIxMC0yODI2Iiwic2N5IjoiYXV0byIsInNuaSI6ImFoLnlkMDEucGFvcGFvY2xvdWQuY3lvdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@162.251.61.47:810#%F0%9F%87%BA%F0%9F%87%B8US-162.251.61.47-2846

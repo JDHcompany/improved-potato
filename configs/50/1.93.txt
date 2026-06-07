@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 93 (строки 4601-4650 из 13792)
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80/?type=ws&encryption=none&flow=&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%A7%94%F0%9F%8F%BBTel%3A
 vless://9f3716f3-739e-472f-b1a1-5f875f4eb76f@love.abriabri.ir:8001/?encryption=none&flow=&path=%2F%2F%2FAbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN--AbriVPN---AbriVPN--AbriVPN--AbriVAbriVAbriVPN--AbriVPN--AbriVPN--AbriVPN--v&type=tcp&headerType=http#%40AbriVPNbot-%D9%86%D8%B5%D9%81

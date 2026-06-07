@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 75 (строки 7401-7500 из 13792)
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@time.is:443/?type=ws&encryption=none&flow=&host=jk.ylka.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&sni=jk.ylka.dpdns.org#1%F0%9F%AB%92%40oneclickvpnkeys
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@thaddeus.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.ambercc.filegear-sg.me#3%F0%9F%AB%92%40oneclickvpnkeys

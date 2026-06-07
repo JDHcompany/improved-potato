@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 107 (строки 10601-10700 из 13792)
 vless://ccad11eb-8272-4b1c-98c9-47469fa2e968@104.18.165.147:80/?type=httpupgrade&encryption=none&flow=&host=joinmain.mralpha-vpn.com#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@172.66.47.53:443/?type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrSo3btsDgOHHUM6Nb&security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv#%40Hope_Net-join-us-on-Telegram

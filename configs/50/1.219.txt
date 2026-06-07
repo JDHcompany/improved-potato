@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 219 (строки 10901-10950 из 13792)
 vless://113dd109-540e-4497-9d47-eed30315260f@104.17.212.83:80/?type=ws&encryption=none&flow=&host=edgetunnel.2424014450.workers...
 trojan://9yu6m5okr@172.67.198.177:443/?type=ws&host=production.tj.ojan.workers.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=production.tj.ojan.workers.dev#%40Hope_Net-join-us-on-Telegram

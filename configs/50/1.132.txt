@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 132 (строки 6551-6600 из 13792)
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.252:8880/?type=httpupgrade&encryption=none&flow=&host=nufillter.jtip.sbs.&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443/?type=ws&encryption=none&flow=&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&security=tls&sni=google.com&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 86 (строки 4251-4300 из 13792)
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN#%F0%9F%94%B9%40MTMVPN
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a#%40meli_proxyy

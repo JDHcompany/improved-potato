@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 7 (строки 301-350 из 13792)
 vless://07db23f1-8b20-49be-9c57-93e9be1e015c@144.31.2.86:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=cbdfef7f3ede2072&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL%20%F0%9F%A7%AD%209.5MB%2Fs
 vless://0a50ec22-5b9d-4f74-a72f-4447c0bbab83@nl02-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=31&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.3MB%2Fs

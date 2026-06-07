@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 227 (строки 11301-11350 из 13792)
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=firefox&security=reality&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44#%40NETMelliAnti
 vmess://eyJhZGQiOiIxMDQuMTguMTM0LjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZ2NkbjkuZmFzazUxMS5jZmQiLCJpZCI6IjlhNDcxNjUxLTI4Y2QtNGIzMC1hMTgwLWYyODAwNTliYTYzNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2Q1MTIiLCJwb3J0IjoiMjA5NSIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0

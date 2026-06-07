@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 270 (строки 13451-13500 из 13792)
 vless://9647bcf6-dfe5-40a4-89b5-c56d4b3d9a9a@94.131.110.133:443/?type=ws&encryption=none&flow=&path=%2Fktqdgews&security=tls&sni=www.vk.com&fp=chrome#%F0%9F%8E%8415%40oneclickvpnkeys
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443/?type=ws&encryption=none&flow=&path=%2Farfdccws&security=tls&sni=ya.ru#%F0%9F%8E%8412%40oneclickvpnkeys

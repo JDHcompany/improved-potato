@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 184 (строки 9151-9200 из 13792)
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80/?type=ws&encryption=none&flow=&host=crxre.ribiwa9933.workers.dev&path=%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hiddify_f%20%5B1%5D
 vless://698e1d97-0594-481d-8d97-f5f6f46aa32d@199.232.193.57:80/?type=ws&encryption=none&flow=&host=virav2ray-alsjddhkasdasdkaslj.com&path=ViraV2ray%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hiddify_f%20%5B2%5D

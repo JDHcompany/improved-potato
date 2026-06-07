@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 76 (строки 7501-7600 из 13792)
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80/?type=ws&encryption=none&flow=&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2590#%F0%9F%9A%8015%40oneclickvpnkeys
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.212.226:80/?type=ws&encryption=none&flow=&host=br.presskiwi.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%9A%8012%40oneclickvpnkeys

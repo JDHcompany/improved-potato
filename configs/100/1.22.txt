@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 22 (строки 2101-2200 из 13792)
 vless://ec8463ea-07b7-475b-b9f0-eeb98927f427@172.64.152.23:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=myservicefid.get-service.ir#%40meliproxyy
 vless://081b4532-255d-4481-9484-b75ceab21b0d@140.248.159.164:80/?type=ws&encryption=none&flow=&host=faqatchai.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%40meliproxyy

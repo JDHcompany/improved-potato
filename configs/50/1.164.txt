@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 164 (строки 8151-8200 из 13792)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM0xwb1U4WC94SG5DRCtjYk5lKzdwMHBLL0puZ0RMTSs1K1JJTHJ4eWZWRlJXL25pS3o1RXUwcld5VmNEaG89@ct.uigame.space:2024#42%F0%9F%8D%89%40oneclickvpnkeys
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443/?type=ws&encryption=none&flow=&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&path=%2FiqySBCJZh3v7AmTx%3Fed%3D2560&security=tls&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&alpn=http%2F1.1&fp=chrome#69%F0%9F%8D%89%40oneclickvpnkeys

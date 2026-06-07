@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 170 (строки 8451-8500 из 13792)
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443/?type=ws&encryption=none&flow=&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#40%F0%9F%8F%96%EF%B8%8F%40oneclickvpnkeys
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443/?type=ws&encryption=none&flow=&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#42%F0%9F%8F%96%EF%B8%8F%40oneclickvpnkeys

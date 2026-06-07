@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 102 (строки 5051-5100 из 13792)
 trojan://ec9406f9-3fc6-442d-b9f6-90c59b64eff2@www.speedtest.net:443/?type=ws&path=%2F%40custom_config%3Fed%3D2560&security=tls&sni=pages.dev
 trojan://bpb-trojan@104.27.85.4:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram

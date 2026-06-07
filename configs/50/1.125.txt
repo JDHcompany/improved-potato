@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 125 (строки 6201-6250 из 13792)
 trojan://Aimer@161.145.150.26:2087/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-161.145.150.26-2046
 trojan://Aimer@154.197.64.98:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.98-2054

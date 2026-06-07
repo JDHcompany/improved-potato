@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 21 (строки 4001-4200 из 13792)
 vmess://eyJhZGQiOiIxNjIuMTU5LjI0MC4xMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfj4FSRUxBWS0xNjIuMTU5LjI0MC4xMDItODc3MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxNjIuMTU5LjE5NC4xMzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE3ZDI3ZmItY2I5My0zYmQ4LTliZjctNzFjZDkxMzE5ODIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hnY2Vmb21uIiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfj4FSRUxBWS0xNjIuMTU5LjE5NC4xMzUtODc3MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ

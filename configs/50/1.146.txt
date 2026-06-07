@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 146 (строки 7251-7300 из 13792)
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.80.1:443/?type=grpc&encryption=none&flow=&security=tls&sni=Tp810P28gI.aNa-SoFt.Ir#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@104.19.57.203:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram

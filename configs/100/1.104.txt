@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 104 (строки 10301-10400 из 13792)
 vmess://eyJhZGQiOiIxMDQuMjYuMC4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InAxLjYxMzA1NS54eXoiLCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjIwODYiLCJwcyI6IkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://263497fb-9ae2-4f7b-94c6-b0179e480448@172.67.140.54:2096/?type=ws&encryption=none&flow=&host=moon-azadnet.pages.dev&path=%2F3ewruCq0qxGgeI5j%3Fed%3D2560&security=tls&sni=MOon-AZadNet.pagES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram

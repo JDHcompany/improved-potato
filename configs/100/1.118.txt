@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 118 (строки 11701-11800 из 13792)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.192.160:443/?type=ws&encryption=none&flow=&host=cg.ylks.xyz&path=%2Fblue&security=tls&sni=cg.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.244:443/?type=ws&encryption=none&flow=&host=lg.ylks01.eu.org&path=%25...&security=tls&sni=lg.ylks01.eu.org

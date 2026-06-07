@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 93 (строки 9201-9300 из 13792)
 vless://VPNCUSTOMiZE@www.canva.com:443/?type=ws&encryption=none&flow=&host=confignginxV2rayng.vpncustomize.Website&path=%2F%3Fed%3D2048&security=tls&sni=confignginxV2rayng.vpncustomize.Website&alpn=http%2F1.1&fp=chrome#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayy_vpn13%20%5B12%5D
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.67.73.233:80/?type=ws&encryption=none&flow=&host=join-to-Vmessorg.sabadyt.ir&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ry_proxy%20%5B11%5D

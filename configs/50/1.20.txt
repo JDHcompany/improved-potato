@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 20 (строки 951-1000 из 13792)
 vless://d45a5559-03fe-46d0-911d-03d3647e9502@193.151.152.216:1617?encryption=none&security=none&type=tcp&headerType=http&host=mci.ir#telegram%20%F0%9F%8C%9F%20dailyv2ry
 vless://6da3c288-d649-4d19-8006-52061f3335ab@2.144.22.43:50190?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTehr%C4%81n%F0%9F%85%BF%EF%B8%8Fping%3A307.24ms%2071%20dailyv2ry
