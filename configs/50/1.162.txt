@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 162 (строки 8051-8100 из 13792)
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.70:443/?type=ws&encryption=none&flow=&host=vs1.ylks2024.us.kg&path=%2Fylks&security=tls&sni=vs1.ylks2024.us.kg#%40Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiIxMDQuMTguMTE0LjE1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYTEuOTg0OTUyLnh5eiIsImlkIjoiZjA3NThiZjktNDU0Yi00MzMxLWJiNDUtZTU2ZGQzOTBmNzQzIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJwb3J0IjoiMjA5NSIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0

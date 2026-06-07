@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 1 (строки 1-200 из 13792)
 vless://9bc247bd-6fef-468b-91e7-2400e8c0903f@87.239.105.7:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=XM44EKjkC6U8bm_SlaAoou6DqQx61K9mScIF_WGnk2s&sid=68ec10761480dce4#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:40.75ms
 ss://ee714925-bdb2-49ea-ace5-9acab37242ac@172.64.152.23:2053?path=%2F&security=tls&encryption=none&insecure=0&host=fin.ecophoneshop2025.ir&type=ws&allowInsecure=0&sni=fin.ecophoneshop2025.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.01ms

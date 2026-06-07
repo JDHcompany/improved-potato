@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 107 (строки 5301-5350 из 13792)
 vless://80e79dc0-ad8f-4008-a221-996252a6f15f@103.116.7.100:2087/?type=ws&encryption=none&flow=&host=20241205.666888.lol&path=%2F%3Fed%3D2560&security=tls&sni=20241205.666888.lol&alpn=http%2F1.1&fp=random#%F0%9F%8D%8830%40oneclickvpnkeys
 vless://80e79dc0-ad8f-4008-a221-996252a6f15f@45.136.199.77:443/?type=ws&encryption=none&flow=&host=20241205.666888.lol&path=%2F%3Fed%3D2560&security=tls&sni=20241205.666888.lol&alpn=http%2F1.1&fp=random#%F0%9F%8D%8843%40oneclickvpnkeys

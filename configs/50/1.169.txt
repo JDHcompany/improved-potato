@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 169 (строки 8401-8450 из 13792)
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443/?type=ws&encryption=none&flow=&host=rayan-09.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rayan-09.parastoo.dpdns.org&fp=chrome&packetEncoding=xudp#%F0%9F%A9%B480%40oneclickvpnkeys
 vless://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@104.21.79.79:443/?type=ws&encryption=none&flow=&host=wwsde.938.pp.ua&path=%2FGLDvleH8RDu6ZqfwAwY2SNm&security=tls&sni=WwsdE.938.Pp.uA&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%A9%B481%40oneclickvpnkeys

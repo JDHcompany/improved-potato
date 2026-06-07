@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 142 (строки 7051-7100 из 13792)
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443/?type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&security=tls&sni=CVFgTrE4.222560.XyZ&alpn=http%2F1.1&fp=chrome#%40V2rayNGVPN
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.95.229:2083/?type=ws&encryption=none&flow=&host=invincible.fafa20.shop&path=%2FAFCier7hMiNrfcmm%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&security=tls&sni=iNvINCiBLe.faFa20.shOp&alpn=http%2F1.1&fp=randomized#%40V2rayNGVPN

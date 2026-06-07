@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 176 (строки 8751-8800 из 13792)
 vless://de94335a-a85c-473d-8ad5-1743261fc7f7@92.51.36.219:8443/?type=ws&encryption=none&flow=&host=wxf838.sbs&path=%2F%3Fproxyip%3Dproxyip.fxxk.dedyn.io&security=tls&sni=wxf838.sbs#%F0%9F%8D%AA82%40oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8D%AA72%40oneclickvpnkeys

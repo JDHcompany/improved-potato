@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 91 (строки 4501-4550 из 13792)
 vless://681eda85-395e-4322-9693-f62103b00122@fast-mci.totalmntxah.ir:80/?type=tcp&encryption=none&flow=
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&fp=chrome#%40v2rays_ha

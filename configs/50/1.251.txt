@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 251 (строки 12501-12550 из 13792)
 vless://6fd5b6b4-86b4-4e59-b0d9-c088009a74a0@104.17.234.114:8443/?type=grpc&encryption=none&flow=&serviceName=Telegram%3A%40SourceFreeFilter#%40Hope_Net-join-us-on-Telegram
 vless://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@172.66.47.198:443/?type=ws&encryption=none&flow=&host=sflslf0flk0sfk0sf.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=sflslf0flk0sfk0sf.pages.dev&fp=randomized#%40Hope_Net-join-us-on-Telegram

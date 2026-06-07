@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 95 (строки 4701-4750 из 13792)
 vless://dea7cfd8-7ed4-4ea4-845d-c93e39ca2189@94.182.136.158:12051/?type=tcp&encryption=none&flow=#Channel
 vless://debbc902-6f6e-43f6-8f1b-f62e741e770b@dl4.venomspeeds.com:20390/?type=ws&encryption=none&flow=&path=%2F%3Fed%3D2048#%E2%9A%A1Telegram

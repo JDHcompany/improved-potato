@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 166 (строки 8251-8300 из 13792)
 trojan://blue2024@173.245.58.80:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.110.101:443/?type=ws&encryption=none&flow=&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&fp=chrome#%40Hope_Net-join-us-on-Telegram

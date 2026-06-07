@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 11 (строки 501-550 из 13792)
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?security=tls&type=ws&path=%2F45.76.183.217%3D49292&host=hetz.x-smm.com&sni=hetz.x-smm.com&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%2010.7MB%2Fs
 trojan://humanity@104.18.7.147:443?sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL%20%F0%9F%A7%AD%205.6MB%2Fs

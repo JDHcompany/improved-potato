@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 197 (строки 9801-9850 из 13792)
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087/?type=ws&encryption=none&flow=&host=vl.hongkong6.qzz.io&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=vl.hongkong6.qzz.io&fp=random#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B17%5D
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443/?type=ws&encryption=none&flow=&host=007.xingfu.qzz.io&path=%2F&security=tls&sni=007.xingfu.qzz.io&fp=random#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpn_ioss%20%5B15%5D

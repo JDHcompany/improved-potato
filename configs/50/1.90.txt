@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 90 (строки 4451-4500 из 13792)
 vless://5621e674-5d26-4389-bf28-bf7cc29cfad6@87.236.38.209:640/?type=tcp&encryption=none&flow=#%D8%AA%D8%B1%D9%86%D8%AF
 vless://573c787d-d549-4171-b05f-29984bc0266c@104.16.139.160:443/?type=ws&encryption=none&flow=&host=ipv4.farazteams.ir&path=%2F%40AmirGeekTech-%40FNET00&security=tls&sni=ipv4.farazteams.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#CDN-%40AmirGeekTech

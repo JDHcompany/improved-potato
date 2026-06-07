@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 233 (строки 11601-11650 из 13792)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.194.9:443/?type=ws&encryption=none&flow=&host=lj.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lj.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.44.156:443/?type=ws&encryption=none&flow=&host=bpb-worker-panel1-e4p.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram

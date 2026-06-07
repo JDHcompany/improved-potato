@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 138 (строки 6851-6900 из 13792)
 ss://77-9d--_ve-_ve-_ve-_ve-_ve-_ve-_vW_vv70377-9b--_vXPvv71-a3fvv71vXnnvv71OPTrvv71377-977-977-977-977-977-977-9b--_vTfvv71v77-9c--_vX5rd--_vW9eee-_vU49@104.17.147.22:80#%40Hope_Net
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.18.7.215:2087/?type=grpc&encryption=none&flow=&security=tls&sni=smart.trainofy.info#%40Hope_Net-join-us-on-Telegram%3Cbr...

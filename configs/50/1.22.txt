@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 22 (строки 1051-1100 из 13792)
 vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@l11.cesar2.click:443?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#telegram%20%F0%9F%8E%AF%20dailyv2ry
 vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0gXHVkODNjXHVkZmFhIGRhaWx5djJyeSIsICJhZGQiOiAiMTA5LjEwNC4xNTMuMTIiLCAicG9ydCI6ICIyMDEwNCIsICJpZCI6ICI0MGUzMDZhNi03Y2FiLTQwYWMtYTA4NS1hOTYxODk1ZWIxMWIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpI1RFTEVHUkFNLWFub3RoZXJtZV9uaWdodC0tLSNURUxFR1JBTS1hbm90aGVybWVfbmlnaHQtLS0jVEVMRUdSQU0tYW5vdGhlcm1lX25pZ2h0LS0tI1RFTEVHUkFNLWFub3RoZXJtZV9uaWdodC0tLSNURUxFR1JBTS1hbm90aGVybWVfbmlnaHQiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0

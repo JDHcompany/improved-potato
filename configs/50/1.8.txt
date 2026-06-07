@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 8 (строки 351-400 из 13792)
 vless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@ru.jinnie.lol:443?security=reality&type=tcp&sni=ru.jinnie.lol&fp=chrome&flow=xtls-rprx-vision&sid=e8b1ac21a7685b9c&pbk=0-0a99RLOG_2OW4j-e-UlzlMhnLubb9Gs6Ykd_bnjCM&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU%20%F0%9F%A7%AD%203.2MB%2Fs
 vless://525e49c0-8396-4dac-bb2d-36412723e5cb@84.252.136.245:8443?security=reality&type=tcp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=e57932a42872a362&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR%20%F0%9F%A7%AD%202.1MB%2Fs

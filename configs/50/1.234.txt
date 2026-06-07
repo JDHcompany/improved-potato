@@ -1,3 +1,8 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
 # 1_14 | часть 234 (строки 11651-11700 из 13792)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.116:443/?type=ws&encryption=none&flow=&host=lj.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lj.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.18.157:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
