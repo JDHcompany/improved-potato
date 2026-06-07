@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.3 | часть 118 (строки 5851-5900 из 12884)
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@rus2wwwia.izumii.ir:2012?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@istai-zo.izumii.ir:2091?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@istai-zo.izumii.ir:2091?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@istai-zo.izumii.ir:2091?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@istai-zo.izumii.ir:2091?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@chz.izumii.ir:2014?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@chz.izumii.ir:2014?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@chz.izumii.ir:2014?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@chz.izumii.ir:2014?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#https://t.me/allproconf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@rusw.izumii.ir:2015?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@lithso.izumii.ir:8880?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80?path=/&amp;security=none&amp;encryption=none&amp;host=sdtfdtydtydys2.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip2.kakeroo.ir:80?path=/&amp;security=none&amp;encryption=none&amp;host=sdtfdtydtydys2.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+vless://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80?security=none&amp;type=ws&amp;host=sany.babaksalehi58.woRkeRs.dEv&amp;path=vless-ws/?ed=2560#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@lithso.izumii.ir:8880?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip1.kakeroo.ir:80?path=/&amp;security=none&amp;encryption=none&amp;host=sdtfdtydtydys2.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+ss://7954a88d-2e46-49e2-954b-c6a910fcffc1@ip2.kakeroo.ir:80?path=/&amp;security=none&amp;encryption=none&amp;host=sdtfdtydtydys2.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+ss://ebbeeb9f-0842-5048-89b9-64643d3424e6@172.67.218.206:80?security=none&amp;type=ws&amp;host=sany.babaksalehi58.woRkeRs.dEv&amp;path=vless-ws/?ed=2560#https://t.me/allproconf
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.118:443?path=/@vpnAndroid2?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=4b097c46.GRIzzlyvPN.PAgeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=4b097c46.gRIzzLYvPn.paGes.DEv#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vless://1dcf8b3a-8c9e-42fc-bb99-c8749604127c@104.17.53.246:2052?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.com.aparat.com.seyyedmt.bloG.#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vless://9f13152c-1c7e-4a42-ab73-32d6aa574b03@172.67.247.119:443?security=tls&amp;sni=xn--mgbndbh.pinocchio1.ir.&amp;type=grpc#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vless://04d533ee-51ba-47cc-a703-6336470898ad@104.21.69.22:443?security=tls&amp;sni=mhsang2c3.afsharidempire.uk&amp;type=ws&amp;host=mhsang2c3.afsharidempire.uk&amp;path=/8Ku2BGY685PUNtppXQIC9t&amp;fp=chrome&amp;alpn=http/1.1#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.154.237:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImphaGZramhhLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoi2Kfar9mHINmF24zYrtmI2KfbjCDZgti32Lkg2YbYtNuMINis2YjbjNmGINi02YggOiBAZmFyc2lwcm94eSJ9
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@104.16.60.8:2082?path=/&amp;security=none&amp;encryption=none&amp;host=h3.xn--gmq282ekfhyys3gs.com.&amp;type=ws#اگه میخوای قطع نشی جوین شو : @farsiproxy
+vless://98ddb6fb-3f8d-4c60-946e-45f70c914907@curt233.bestxau.ir:2374?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=filimo.com#https://t.me/allproconf
+vless://7e2b2894-3b5c-4b65-acc5-e1784f4047f2@146.185.240.23:443?flow=xtls-rprx-vision&amp;security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=m.vk.ru&amp;sid=205748bc0f24a747&amp;fp=chrome&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none#https://t.me/allproconf
+ss://98ddb6fb-3f8d-4c60-946e-45f70c914907@curt233.bestxau.ir:2374?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=filimo.com#https://t.me/allproconf
+ss://7e2b2894-3b5c-4b65-acc5-e1784f4047f2@146.185.240.23:443?flow=xtls-rprx-vision&amp;security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=m.vk.ru&amp;sid=205748bc0f24a747&amp;fp=chrome&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none#https://t.me/allproconf
+ss://eyJhZGQiOiJzZXJ2ZXJzLnh2b24uaW4iLCJkZXZpY2VJRCI6IiIsImZwIjoiY2hyb21lIiwibmV0IjoidGNwIiwiYWxwbiI6IiIsInNuaSI6InNlcnZlcnMueHZvbi5pbiIsInYiOiIyIiwicHMiOiJ0Lm1lL0NvbmZpZ0ZvcmkgIC0gIENvbmZpZyAzMTE5OSIsInRscyI6InRscyIsInBvcnQiOiIyMDg3Iiwic2VydmljZU5hbWUiOiJub25lIiwidHlwZSI6Im5vbmUiLCJleHRyYSI6IiIsInNlZWQiOiIiLCJmcmFnbWVudCI6IiIsImFpZCI6IjAiLCJtb2RlIjoiIiwiaG9zdCI6IiIsImlkIjoiNDNhN2M2ZmQtYzUyZC00ZTFhLWJhMmItYjdhNWQzOTNiZWEwIiwicGF0aCI6Ii8iLCJoZWFkZXJUeXBlIjoiaHR0cCJ9#https://t.me/allproconf
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&amp;security=&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.219:443?path=/?ed=2560&Telegram@AliXTso&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#https://t.me/allproconf
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#https://t.me/allproconf
+ss://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&amp;security=&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#https://t.me/allproconf
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.219:443?path=/?ed=2560&Telegram@AliXTso&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#https://t.me/allproconf
+ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#https://t.me/allproconf
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&amp;encryption=none&amp;pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fit.jojack.ru&amp;sid=f8865ecbb9bc11a3#https://t.me/allproconf
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=/&amp;security=tls&amp;encryption=none&amp;host=dev.twistsparrow.xyz&amp;type=ws&amp;sni=dev.twistsparrow.xyz#https://t.me/allproconf
+vless://08d6280b-90c8-41e1-a809-3132cfb706f5@37.139.33.57:8443?security=reality&amp;encryption=none&amp;pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.vk.ru&amp;sid=6419bed7fd0a2cff#https://t.me/allproconf
+vless://6ccf107d-f3d3-440d-a172-5d77d3fd8661@172.64.148.235:8080?path=/t.me.V2RayyNGvpn?ed=512&amp;security=none&amp;encryption=none&amp;host=gaMinG.rXPgaIn.ToP&amp;type=httpupgrade#

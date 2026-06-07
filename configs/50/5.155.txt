@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.3 | часть 155 (строки 7701-7750 из 12884)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@Selinc
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@strong.zdshop.ir:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sens-2.certhost.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=sens-2.certhost.ir#@Selinc
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dev.nestandneighbours.com&amp;type=ws&amp;allowInsecure=0&amp;sni=dev.nestandneighbours.com#@Selinc
+vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb03.serverp1anel.ir:8080?security=reality&amp;encryption=none&amp;pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=b7b70c104ad267b8#@Selinc
+vless://SVNTEAM@185.146.173.59:80?path=/SvnTeam-TeleGram-ChaNnel-VIP?ed=2048&amp;security=none&amp;encryption=none&amp;host=SvnTeamV2rayGm7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&amp;type=ws#@serverv2ray00
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#@serverv2ray00
+vless://438471e8-19db-41c5-8e4f-271c21e9b239@visa.com:8443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=join-sho-falcunargo-cz.falcunar.uk.eu.org&amp;fp=random&amp;type=ws&amp;sni=join-sho-falcunargo-cz.falcunar.uk.eu.org#@serverv2ray00
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBzZXJ2ZXJ2MnJheTAwIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@serverv2ray00
+vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2VsbGllLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAc2VydmVydjJyYXkwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@serverv2ray00
+vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2VsbGllLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAc2VydmVydjJyYXkwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://438471e8-19db-41c5-8e4f-271c21e9b239@visa.com:8443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=join-sho-falcunargo-cz.falcunar.uk.eu.org&amp;fp=random&amp;type=ws&amp;sni=join-sho-falcunargo-cz.falcunar.uk.eu.org#@serverv2ray00
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBzZXJ2ZXJ2MnJheTAwIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@serverv2ray00
+vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2VsbGllLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAc2VydmVydjJyYXkwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://438471e8-19db-41c5-8e4f-271c21e9b239@visa.com:8443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=join-sho-falcunargo-cz.falcunar.uk.eu.org&amp;fp=random&amp;type=ws&amp;sni=join-sho-falcunargo-cz.falcunar.uk.eu.org#@serverv2ray00
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBzZXJ2ZXJ2MnJheTAwIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzNS43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFuZXR0LmNsaWNrIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBJcmFucHJveHlwcm8iLCJzY3kiOiJhdXRvIiwic25pIjoiamFuZXR0LmNsaWNrIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?path=telegram-channel-proxy_mtm/?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=test38.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=test38.pages.dev#@Iranproxypro
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aXZyR0VIWTg4c1FrM0RQ@account-mec.emofid.co:443#@Iranproxypro
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?path=Path/Telegram@SINABIGO/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=test43.pages.dev&amp;type=ws&amp;sni=test43.pages.dev#@Iranproxypro
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@Iranproxypro
+vmess://eyJhZGQiOiIxNzIuNjcuMTUyLjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWVyb2l5LmljdSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJASXJhbnByb3h5cHJvIiwic2N5IjoiYXV0byIsInNuaSI6Im1lcm9peS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJASXJhbnByb3h5cHJvIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBzZXJ2ZXJ2MnJheTAwIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@serverv2ray00
+vless://d165a1e8-f4b7-4ed8-bca1-d8a61197b597@138.124.59.128:48200?type=xhttp&amp;path=/&amp;host=&amp;mode=auto&amp;security=none#:)-telegram:@set_v2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@staging.lastilhame.monster:49917#🇫🇮13@shadowsockskeys
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:443#🇸🇬13@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#🇯🇵 13@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#🇨🇦 14@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#🇷🇺14@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTFxNnpRRUVnUDJoVkI4V09BWW1PWnp6WHFNcTVBRVZ1RERPTWpwbkFnSk1KS0c@92.38.149.110:31348#🇺🇸 14@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇬🇧14@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330#🇷🇺14@shadowsockskeys
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 14@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#🇳🇱15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRWxOWEFhVGY1VTlXdGJKZXJyZ3pQNExm@basic-ru-1.undef.network:35686#🇷🇺 15@shadowsockskeys
+ss://YWVzLTI1Ni1nY206TkRObE16UmlNR1ZrWWpRek1HRTFZVGRsTTJFeE1qSTVPVFV4TTJWag@ir.npvnot.com:11098#🇮🇷15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#🇬🇷15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#🇬🇧15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#🇮🇱15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#🇹🇷15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTVjMTViYzE3NWI0ZDc0@37.60.250.243:20558#🇬🇧15@shadowsockskeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388#🇫🇷15 @shadowsockskeys
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@vpnbaz 🎳
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=none&amp;encryption=none&amp;host=check-host.net&amp;headerType=http&amp;type=tcp#@vpnbaz 🎱
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=dev.twistsparrow.xyz#@vpnbaz 🐍
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;allowInsecure=0&amp;sni=vbox.ping-box.com#@vpnbaz 🛡️
