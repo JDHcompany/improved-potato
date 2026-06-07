@@ -3,7 +3,7 @@
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
 # announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 18.2 | часть 3 (строки 101-150 из 181)
+# 18.1 | часть 3 (строки 101-150 из 181)
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%E7%BE%8E%E5%9B%BD
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6MCwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJwb3J0IjoxODAsInBzIjoi5b635Zu9Iiwic2VjdXJpdHkiOiJhdXRvIn0=

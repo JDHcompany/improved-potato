@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.3 | часть 69 (строки 3401-3450 из 12884)
+ss://YWVzLTEyOC1jZmI6YTk@ss4.astu.online:3330#@dark_telecom
+ss://YWVzLTEyOC1jZmI6ZDI@ss3.astu.online:2356#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo2OTMwQDIwLjc5LjIyMy43MTo2OTMw#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo1OTQ3QDEzLjM3LjI4LjIzOjU5NDc#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpAbTFyZG9sQDEzLjM3LjI4LjIzOjc#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo3NTE1QDIwLjE5OS45OC4xNjQ6NzUxNQ#dark_telecom
+ss://YWVzLTEyOC1jZmI6ZGI@ss1.astu.online:4796#@dark_telecom
+ss://YWVzLTEyOC1jZmI6N2I@ss6.astu.online:8332#@dark_telecom
+ss://YWVzLTEyOC1jZmI6ODk@ss7.astu.online:4233#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo3ODczQDIwLjE5OS45OC4xNjQ6Nzg3Mw#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo4MzU4QDIwLjE5OS4xNzcuMTg3OjgzNTg=#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNzI3NGIyMjRlZWIxZjM3@13.36.215.123:443#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTNmMmYyODAwM2FhZDdi@13.36.183.1:443#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo5NTU3QDIwLjc5LjIyMy43MTo5NTU3
+ss://Y2hhY2hhMjAtaWV0Zjp2aXBrb2Q@20.201.12.45:1998#@dark_telecom
+ss://Y2hhY2hhMjAtaWV0Zjo2ZmViZmE4ZDVjYWNhMzJhQDIwLjEwNS4xNTQuNzc6NjQ0Mg#dark_telecom
+ss://Y2hhY2hhMjAtaWV0ZjowMTZiMTllYWZjNzNmNDFjQDIwLjEwNS4xNTQuNzc6OTkzNA==#dark_telecom
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n3.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n2.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://1ae77578-fd85-4c54-b70b-76a77224dc00@tcp.ap-northeast-1.clawcloudrun.com:44832?mode=auto&amp;path=/nullop1-nullop1-nullop1-nullop1&amp;security=reality&amp;encryption=none&amp;pbk=BpQ6SzhZEgxnb82psovxNMu5CiTzYfB5fhw1qH3bRCs&amp;fp=chrome&amp;spx=/&amp;type=xhttp&amp;sni=www.icloud.com&amp;sid=f51473d0#@Darktunnelvip1کانال تلگرامی
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n2.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n1.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n2.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&amp;path=/pabloping&amp;security=none&amp;encryption=none&amp;host=pablo-n2.digionix.ir&amp;type=xhttp#@Darktunnelvip1کانال تلگرامی
+vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?path=/tel:deli_servers+tel:deli_servers+tel:deli_servers+tel:deli_servers+tel:deli_servers+tel:deli_servers+tel:deli_servers+tel:deli_servers&amp;…
+vless://d3927fcb-1dd4-4a84-af91-75196dcc0ee9@[2a01:4f8:c012:81c0::1]:1?encryption=none&amp;security=reality&amp;sni=4dsply.com&amp;fp=firefox&amp;pbk=L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ&amp;sid=bbcb1cf7&amp;spx=/&amp;type=grpc&amp;serviceName=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers&amp;mode=gun#🇩🇪Tel:Deli_servers
+vless://telegram-deli-servers@185.146.173.59:80?path=/tel+:+deli_servers+tel+:+deli_servers+tel+:+deli_servers+tel+:+deli_servers+tel+:+deli_servers+tel+:+deli_servers?ed=2048&amp;security=none&amp;encryption=none&amp;host=kia来自我们团队的爱01我爱熟食店lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&amp;type=ws#🇩🇪deli_servers
+vless://99549e40-01ce-4621-b9d0-75ed8fddfa06@join-bede.deragv2ray.net:2083?type=ws&amp;path=/&amp;host=allnet.deragv2ray.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=allnet.deragv2ray.net#@Deragv2ray-w5v2omfl
+vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?type=grpc&amp;serviceName=@DeragNet&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=h2&amp;sni=allnet.deragv2ray.net#@deragv2ray.-1evz1luz
+vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&amp;path=/&amp;host=allnet.deragv2ray.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=allnet.deragv2ray.net#@Deragv2ray-sactidpz
+vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&amp;path=/&amp;host=allnet.deragv2ray.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=allnet.deragv2ray.net#@Deragv2ray-sactidpz
+vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&amp;path=/&amp;host=allnet.deragv2ray.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=allnet.deragv2ray.net#@Deragv2ray-sactidpz
+vless://254669c0-134b-410f-b47e-229d8877b058@join-bede.deragv2ray.net:2083?type=ws&amp;path=/&amp;host=allnet.deragv2ray.net&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=allnet.deragv2ray.net#@Deragv2ray-sactidpz
+vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@tabrizm138.lll.l0l.lll.workers.dev:2086?path=/?TM_@AZARBAYJAB1+@AZARBAYJAB1+t.me/AZARBAYJAB1?=?2048&amp;security=none&amp;encryption=none&amp;alpn=h2&amp;host=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com&amp;fp=chrome&amp;type=ws&amp;sni=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com#https://t.me/Azarbayjab1
+vless://b4d2cb44-6eaf-48e7-adcb-5a7c49bddd8d@104.18.203.232:2095?path=/&amp;security=none&amp;encryption=none&amp;host=aaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.Iran-Check-Host-server-sitesssssssssssssssssssssss--sssssssssss.com&amp;type=ws#🇩🇪@AZARBAYJAB1ᯤ++𓈆+(mci)
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.136.234:8080?path=/join--ServerNett--ServerNett?ed=1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#@AZARBAYJAB1ᯤ̸++𓈆+(mci)ᯤ̸++𓈆+(mtn)
+vless://b4d2cb44-6eaf-48e7-adcb-5a7c49bddd8d@104.18.203.232:2095?path=/&amp;security=none&amp;encryption=none&amp;host=aaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.Iran-Check-Host-server-sitesssssssssssssssssssssss--sssssssssss.com&amp;type=ws#🇩🇪@AZARBAYJAB1ᯤ++𓈆+(mci)
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.1.35:8080?path=/join--ServerNett--ServerNett?ed=1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#@AZARBAYJAB1ᯤ̸++𓈆+(mci)ᯤ̸++𓈆+(mtn)
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.130.235:8080?path=/join--ServerNett--ServerNett?ed=1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#@AZARBAYJAB1ᯤ̸++𓈆+(mci)ᯤ̸++𓈆+(mtn)
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.133.234:8080?path=/join--ServerNett--ServerNett?ed=1048&amp;security=none&amp;encryption=none&amp;host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.&amp;type=ws#@AZARBAYJAB1ᯤ̸++𓈆+(mci)ᯤ̸++𓈆+(mtn)
+vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTYiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJwcyI6IkBBWkFSQkFZSkFCMSAodm1lc3MpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698?encryption=none&amp;security=reality&amp;sni=lenovoglobal.com&amp;fp=chrome&amp;pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&amp;sid=34&amp;spx=/—v2rayNplus—v2rayNplus—v2rayNplus—v2rayNplus—&amp;type=grpc#韓國
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.45.232:443/?type=ws&amp;encryption=none&amp;flow=&amp;host=l.ayovo.netlib.re&amp;path=/?ed=2560&amp;security=tls&amp;sni=l.ayovo.netlib.re#🇺🇸 US
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=/&amp;security=none&amp;encryption=none&amp;host=mitivpn.global.ssl.fastly.net&amp;type=ws#🇯🇵 日本
+vless://👉👉BanV2ray👈👈@bastion.h3.speed.cloudflare.com:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=visvuev-272526281716252527717252.poshakhowdy.ir.&amp;path=/www.speedtest.net-www.bu
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096/?type=ws&amp;encryption=none&amp;flow=&amp;host=TzS7v35LfD.sMaRtTeChZaAl.InFo&amp;path=/&amp;security=tls&amp;sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&amp;fp=chrome#🇩🇪 德国
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=images.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&amp;sid=58c512b4422e2517#🇫🇮 FI
+vless://38ecd1e8-b709-4d2b-818c-cd254fb4ee52@162.159.128.64:443?encryption=none&amp;security=tls&amp;sni=yq.zhahui.de5.net&amp;fp=chrome&amp;alpn=h2,http/1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=yq.zhahui.de5.net&amp;path=/ada#D-200G
+vless://86469f66-055e-41ea-a648-33e30c6ac750@38.95.232.247:24683?encryption=none&amp;security=reality&amp;pqv=&amp;type=tcp&amp;sni=mensura.cdn-apple.com&amp;fp=chrome&amp;pbk=caKZX80LQ7KPROX0Sv5rMwmQmXVZjgdmLIBHuL4DIwQ&amp;sid=6ba85179e30d4fc2&amp;flow=xtls-rprx-vision#VLESS_Reality_Vision
+vless://469e21bb-3e71-4204-82d0-4c9cfbfff0c5@178.239.124.143:8220/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com&amp;fp=chrome&amp;security=reality&amp;pbk=sEh9oq0yHv8ye-2qQTru6c8PRJuaYPizhm9j3doksEU&amp;sid=

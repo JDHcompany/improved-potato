@@ -3,7 +3,7 @@
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
 # announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 15.2 | часть 2 (строки 51-100 из 283)
+# 15.1 | часть 2 (строки 51-100 из 283)
 vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?security=reality&encryption=none&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5ea7e22e889dabc5#canfingV2rayNG-254
 vless://b91d0c29-f192-4d4c-8f49-d55581228a43@172.67.206.209:2087?path=%2FeyJqdW5rIjoidHA5YUpyNmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=long-disk-e57f.mehrdad00000.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lOng-DisK-e57f.MEhRdaD00000.WorkErS.DEV#filembad-253
 vless://b7e79518-fb32-446b-a74a-755cfbe77da0@91.103.140.69:443?security=reality&encryption=none&pbk=5IT58-ACuEH1tApWMC0uHfNVG9eu64vKgDIM5IKLyjc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=azure.microsoft.com&sid=35697a#filembad-252

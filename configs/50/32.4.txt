@@ -3,7 +3,7 @@
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
 # announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 18.2 | часть 4 (строки 151-181 из 181)
+# 18.1 | часть 4 (строки 151-181 из 181)
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjowLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOjQ0MywicHMiOiLojbflhbAoKSIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJhZGQiOiIyYTAyOjZlYTA6ZDMyZjo6ZjhmZTozNDliIiwiYWlkIjowLCJpZCI6ImIyMGE3MDQyLTcwZmYtNDM3Ni1hNzlmLWI2OGY5ZWRiNzUxOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCJwb3J0IjoyNDIwMiwic2VjdXJpdHkiOiJhdXRvIn0=
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.162.85.247:666?path=%2Fproxy&security=tls&sni=43.162.85.247&type=ws#%E7%BE%8E%E5%9B%BD
