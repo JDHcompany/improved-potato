@@ -1,0 +1,42 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 20.2 | часть 40 (строки 1951-1986 из 1986)
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev#4
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev#Join+Telegram:@Farah_VPN
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&security=tls#
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=%2F%3Fed%3D2560&security=tls&host=support.zoom.us.v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=support.zoom.us.v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#5
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#Join+Telegram:@Farah_VPN
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&security=tls#
+trojan://114514@168.138.176.18:443#
+trojan://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443/?type=tcp&security=tls&sni=DDrt.191266.Xyz#
+trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443/?type=tcp&security=tls&sni=DDrt.191266.Xyz#
+trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?allowInsecure=0&sni=free-v7-09.elbrusway.online#
+trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?security=tls&sni=free-v7-09.elbrusway.online#
+trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?security=tls&sni=free-v7-09.elbrusway.online#%F0%9F%87%A9%F0%9F%87%AADE-64.188.66.196-4625
+trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?sni=free-v7-09.elbrusway.online&peer=free-v7-09.elbrusway.online&security=tls#
+trojan://1168b69d-102c-44ae-a166-a51dfc28efdc@v01.gutingting.com:30050#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&sni=support.zoom.us.meti-u9d.pages.dev&type=ws&host=support.zoom.us.meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443/?type=ws&host=meti-u9d.pages.dev&security=tls&sni=meti-u9d.pages.dev#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443/?type=ws&host=support.zoom.us.meti-u9d.pages.dev&security=tls&sni=support.zoom.us.meti-u9d.pages.dev#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=support.zoom.us.meti-u9d.pages.dev&type=ws&host=support.zoom.us.meti-u9d.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&type=ws&sni=meti-u9d.pages.dev&host=meti-u9d.pages.dev#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&type=ws&sni=support.zoom.us.meti-u9d.pages.dev&host=support.zoom.us.meti-u9d.pages.dev#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=meti-u9d.pages.dev&fp=chrome&type=ws&sni=meti-u9d.pages.dev#
+trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=support.zoom.us.meti-u9d.pages.dev&fp=chrome&type=ws&sni=support.zoom.us.meti-u9d.pages.dev#
+trojan://1198f794-ca4e-4548-aba3-9c4f73e2cb23@dl-sg4.steamdownload.top:50000#
+trojan://1198f794-ca4e-4548-aba3-9c4f73e2cb23@dl-sg4.steamdownload.top:50000?sni=support.zoom.us.dl-sg4.steamdownload.top#
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8309
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#
+trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.17.74.206:443/?type=tcp&security=tls#
+trojan://121b663a-9127-4854-8161-c3dbb0ff5556@cmccctcu.xn--mesv7f5toqlp.club:11113?security=tls#
+trojan://121b663a-9127-4854-8161-c3dbb0ff5556@cmccctcu.xn--mesv7f5toqlp.club:11114?security=tls#

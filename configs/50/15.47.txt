@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.3 | часть 47 (строки 2301-2350 из 12884)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.17.145:443#韩国1
+vmess://eyJ2IjoiMiIsInBzIjoi5Y2w5bqmIDEiLCJhZGQiOiJjbTEteGcuZ28wMDEuYnV6eiIsInBvcnQiOjE5ODgyLCJpZCI6ImRlYWUxYmMxLTUwMzUtMzYyZC05MDBlLTUyM2I1YjkyY2NhMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5b635Zu9IDEiLCJhZGQiOiJjbTEteGcuZ28wMDEuYnV6eiIsInBvcnQiOjE5ODkxLCJpZCI6ImRlYWUxYmMxLTUwMzUtMzYyZC05MDBlLTUyM2I1YjkyY2NhMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9IDEgQ2hhdEdQVCIsImFkZCI6ImNtMS14Zy5nbzAwMS5idXp6IiwicG9ydCI6MTk4NjEsImlkIjoiZGVhZTFiYzEtNTAzNS0zNjJkLTkwMGUtNTIzYjViOTJjY2EyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVjEt5r6z5rSyMDEg6Zqn6YGTIHwgMngiLCJhZGQiOiJpbjA2Lm15MTE4OC5vcmciLCJwb3J0Ijo2MzAwMywiaWQiOiI1YzZjZDBjOS0yNjZlLTMzZTAtOGI1Ny1hMzlhYzAyZWNlNTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5Y2w5bqmMy3mtbflvpfmi4nlt7QgfCAwLjh4IiwiYWRkIjoieWRiYi43Njg5ODEwMi54eXoiLCJwb3J0IjoyMDgyLCJpZCI6IjNhNDBjMzUzLTkwZjktMzdhNi05ZjdiLTY4YWZiOWNjMTNlMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InlkYi43Njg5ODEwMi54eXoiLCJwYXRoIjoiL2J1aWFlYmQiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5r6z5aSn5Yip5LqaLeaCieWwvDEgfCAwLjh4IiwiYWRkIjoic3BlZWRjbC41NDg5MjY1Lnh5eiIsInBvcnQiOjIwNTIsImlkIjoiM2E0MGMzNTMtOTBmOS0zN2E2LTlmN2ItNjhhZmI5Y2MxM2UwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYXVzeWEuNTQ4OTI2NS54eXoiLCJwYXRoIjoiL3Vhc2ZiYmMiLCJ0bHMiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.25:443#英国2
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:443#法国4
+ss://YWVzLTI1Ni1nY206NWM4YjIxMGEtMmYwMC00MjkyLTk2NGItMDUyODFjN2FkNWQx@bjcu.xzyunjiasu.icu:33952#台湾
+vmess://eyJ2IjoiMiIsInBzIjoi5Y+w5rm+IiwiYWRkIjoiYjI0Lm50YnEuZHludS5uZXQiLCJwb3J0Ijo0NDMsImlkIjoiYjA5MTJiMTctYjJkMi00YzUzLTlkNTMtNzEwZjZjODgyNTFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYjI0Lm50YnEuZHludS5uZXQiLCJwYXRoIjoiL2IyNCIsInRscyI6InRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTU5ZmZiNS1hZjJmLTRmZDctOWRhZS1lNGVjM2RkNjc0YzQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTU5ZmZiNS1hZjJmLTRmZDctOWRhZS1lNGVjM2RkNjc0YzQ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.163:443#法国
+vmess://eyJ2IjoiMiIsInBzIjoi5b635Zu9IiwiYWRkIjoidHJvamFuLXBhbmVsLmFscGhhdi50b3AiLCJwb3J0IjozNzEzOCwiaWQiOiJkNTZmZDcxYi1mODE5LTQzZmQtYTYxZC0zNTkzZDc0MmQ2ODIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ0cm9qYW4tcGFuZWwuYWxwaGF2LnRvcCIsInBhdGgiOiIvQklBLVRlbGVncmFtLVYycmF5X0FscGhhIiwidGxzIjoiIn0=
+ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@203.156.198.89:25339#洛杉矶1
+ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@183.240.232.214:25338#洛杉矶2
+ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@36.139.239.208:25487#洛杉矶3
+ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@36.133.145.87:25366#洛杉矶4
+ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ==@120.233.45.130:25451#洛杉矶5
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#法国
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#美国
+vmess://eyJ0eXBlIjoiaHR0cCIsImFkZCI6IjE4MS4yMTQuMTQ3LjIwMiIsIm5ldCI6InRjcCIsInBvcnQiOiI2NTY1Iiwic2N5IjoiYXV0byIsImFpZCI6IjAiLCJpZCI6IjgyZmQ3ZDc0LTgwNTUtNDFhMC05ZjVkLTlhNTZlZjMwMjU2MyIsImhvc3QiOiJkaXZhcmNkbi5jb20iLCJwcyI6IkJ1ZmZhbG8ifQ==
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?type=ws&amp;security=tls&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;path=/?ed=2048&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev&amp;alpn=h2,http/1.1#@buffalo_vpn
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMjAzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiMzJlNDk1MzktZjU2OS00MDNkLWI0YjYtYTg5NzhjMDQwZDVkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzQ1NiIsInBzIjoi8J+FsPCfhbo0NyBAaW5pa290ZXNsYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMjAuMTU2LjI0OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6ImQyMGUzOGVmLTFhNGQtNDAwOS1hMDBkLTJmMGQ0NGUzYzY1YSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+FsPCfhbo0NyBAaW5pa290ZXNsYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMTYuMTA2LjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiZDIwZTM4ZWYtMWE0ZC00MDA5LWEwMGQtMmYwZDQ0ZTNjNjVhIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4Ww8J+FujQ3IEBpbmlrb3Rlc2xhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI5MS4xMDcuMTc5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJkMjBlMzhlZi0xYTRkLTQwMDktYTAwZC0yZjBkNDRlM2M2NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhbDwn4W6NDcgQGluaWtvdGVzbGEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJoZGZ5OHN1Yi5mb3JpcmFuLm5sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoZGZ5OHN1Yi5mb3JpcmFuLm5sIiwiaWQiOiJhNjI5MjA5MC1hZmUxLTQ2NDAtOTdhNy00ZjFkMWQ4NzdjZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQXY4Y3pvcklsWWljVTZEMzQ5YnJXVXc2YSIsInBvcnQiOiI4MCIsInBzIjoic3ViMSBodHRwIFdTIGRpcmVjdCB2bWVzcyDCpyA4MCAxMSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJoZGZ5OGQxLmZvcmlyYW4ubWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhkZnk4ZDEuZm9yaXJhbi5tZSIsImlkIjoiYTYyOTIwOTAtYWZlMS00NjQwLTk3YTctNGYxZDFkODc3Y2YxIiwibmV0Ijoid3MiLCJwYXRoIjoiL0F2OGN6b3JJbFlpY1U2RDM0OWJyV1V3NmEiLCJwb3J0IjoiODAiLCJwcyI6ImQyIGh0dHAgV1MgZGlyZWN0IHZtZXNzIMKnIDgwIDQiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@hdfy8d1.cpi1.eu.org:443/?type=grpc&amp;serviceName=8bHUAD5IX0lC5KffvrsN6rqb&amp;security=tls&amp;sni=hdfy8d1.cpi1.eu.org&amp;alpn=h2&amp;fp=chrome#d4 tls_h2 grpc direct trojan § 443 6
+vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@mci.filna.cloud:443/?type=grpc&amp;encryption=none&amp;serviceName=PvSPM3IC5KffvrsN6rqb&amp;security=tls&amp;sni=hdfy8c1.foriran.me&amp;alpn=h2&amp;fp=chrome&amp;packetEncoding=xudp#c2 tls_h2 grpc CDN vless § 443 9
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@mci.filna.cloud:443/?type=grpc&amp;serviceName=8bHUAD5IX0lC5KffvrsN6rqb&amp;security=tls&amp;sni=hdfy8c1.foriran.me&amp;alpn=h2&amp;fp=chrome#c2 tls_h2 grpc CDN trojan § 443 9
+vmess://eyJhZGQiOiJoZGZ5OGQxLmNwaTEuZXUub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoZGZ5OGQxLmNwaTEuZXUub3JnIiwiaWQiOiJhNjI5MjA5MC1hZmUxLTQ2NDAtOTdhNy00ZjFkMWQ4NzdjZjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQXY4Y3pvcklsWWljVTZEMzQ5YnJXVXc2YSIsInBvcnQiOiI4MCIsInBzIjoiZDQgaHR0cCBXUyBkaXJlY3Qgdm1lc3MgwqcgODAgNiIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://5ee58902-ad14-419d-88dc-d2a74f2c1482@telegram.cloudsnapbot.tech:2053?type=grpc&amp;security=reality&amp;mode=gun&amp;serviceName=,Telegram:@CloudSnapBot&amp;fp=random&amp;sni=Appleid.cdn-apple.com&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#FREE500GB+EVERY+DAY
+vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@104.22.46.204:443?type=ws&amp;security=tls&amp;host=ap-aminoo.pages.dev&amp;path=/?ed=2048&amp;fp=randomized&amp;sni=ap-aminoo.pages.dev&amp;alpn=h2,http/1.1#Buffalo_1
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.177:443?type=ws&amp;security=tls&amp;host=Tahagoogooli.ir&amp;path=/veNbt06rF0tTFtp6/MTcyLjY0LjEzNC41OA==?ed=2560&amp;fp=randomized&amp;sni=SpEedteST.NET&amp;alpn=h2,http/1.1#💦7
+vless://---Bug-vpn---@bugvpn-chtelegram.ddns.net:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=h5kPnRZQNxqZfMfi0OEtXN8y3nCfoKl9y8b0D0quwTA&amp;fp=firefox&amp;spx=/&amp;type=grpc&amp;serviceName=@Bug_vpn
+vless://---Bug-vpn---@bugvpn-chtelegram.ddns.net:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=h5kPnRZQNxqZfMfi0OEtXN8y3nCfoKl9y8b0D0…
+vless://f546c3c9-b393-4d42-83f3-9ded90f9cfbb@tlsv2ray-chtelegram.ddns.net:36555?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=zKZeCfrOtFuWfCUgloGi26XrLShCTWYtcO10x-uK3Gg&amp;fp=firefox&amp;spx=/&amp;type=grpc&amp;serviceName=@TLS_v2ray
+vless://f546c3c9-b393-4d42-83f3-9ded90f9cfbb@tlsv2ray-chtelegram.ddns.net:36555?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=zKZeCfrOtFu…
+vless://f546c3c9-b393-4d42-83f3-9ded90f9cfbb@tlsv2ray-chtelegram.ddns.net:36555?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=zKZeCfrOtFu…
+vless://67731ebf-a187-4509-bcce-69e77f89d4ef@45.8.21.229:57012?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;type=grpc&amp;serviceName=@Bug_vpn
+vless://67731ebf-a187-4509-bcce-69e77f89d4ef@45.8.21.229:57012?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;type=grpc&amp;serviceName=@Bug_vpn…
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.31.16.65:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn&amp;sni=ch.RxV2ray.space#@Bug_vpn+|+MTN
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@tel.RxV2ray.space:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn&amp;sni=ch.RxV2ray.space#@Bug_vpn+|+MTN
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@cdnjs.com:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn&amp;sni=ch.RxV2ray.space#@Bug_vpn+|+MTN+MCI
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@www.canva.com:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn&amp;sni=ch.RxV2ray.space#@Bug_vpn+|+MTN+MCI
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@metrix.anvary.ir:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn&amp;sni=ch.RxV2ray.space#@Bug_vpn+|+MTN+MCI
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.31.16.65:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn…

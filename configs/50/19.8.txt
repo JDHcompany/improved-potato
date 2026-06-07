@@ -1,0 +1,26 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.9 | часть 8 (строки 351-370 из 370)
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@chatgpt.com:2052?path=/?ed&security=none&encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&type=ws#🏴‍☠️ UN | chatgpt.com
+vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?path=/eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=002.w4wl4v1cptky.workers.dev&fp=chrome&type=ws&sni=002.w4WL4V1cpTKY.wOrKers.dev#🇨🇦 CA | 104.18.32.47
+vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=&encryption=none&host=hm3.mutee.com.tr&type=ws#🇨🇦 CA | 172.64.152.23
+vless://3b769dec-9027-4c60-8948-bb07a6eee0a6@vipta.nonshirmal.ir:31475?security=&encryption=none&headerType=http&type=tcp#🏴‍☠️ UN | vipta.nonshirmal.ir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🇧🇿 BZ | 45.131.5.238
+vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 3.64.178.32
+vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@xn-de.onlinernet.ir:20018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 DE | 46.225.133.26
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#🇨🇦 CA | 104.20.1.252
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 81.12.96.39
+vless://99846bfd-9ce2-4776-9c53-ca12bfcad077@104.17.147.22:2086?path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed=2048&security=none&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#🇨🇦 CA | 104.17.147.22
+vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yandex.ru&fp=edge&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&type=tcp&headerType=none#🇵🇱 PL | 144.31.3.250
+vless://b7921b64-e415-44a4-a0ea-62bc634346c3@77.83.245.188:34574?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=jHheKC9Sq9ma4qmDE6nT0Sin4256U9BTuCbdi_WTiys&sid=820988f321c21e98&spx=/&type=tcp&headerType=none#🇹🇷 TR | 77.83.245.188
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 NL | 51.158.206.93
+vless://83adcc98-ac23-4e51-9ae0-788a73fd9939@104.17.163.123:8443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vjv62pggz1658fuliaf9lri7rra85l8utox0kjtogve4whop.zjde5.de5.net#🇨🇦 CA | 104.17.163.123
+vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇸🇨 SC | 45.130.125.160
+vless://ab3af76c-1f48-43b5-8ed7-c3cf9a1a4f06@178.239.148.83:35846?security=&encryption=none&host=chess.com&headerType=http&type=tcp#🇮🇷 IR | 178.239.148.83
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#🇩🇪 DE | 185.158.133.158
+vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🇨🇦 CA | 104.26.7.205
+vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🇨🇦 CA | 104.26.7.205

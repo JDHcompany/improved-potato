@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.3 | часть 254 (строки 12651-12700 из 12884)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#@FarazV2ray
+trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#@FarazV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#@FarazV2ray
+trojan://humanity@172.64.152.23:443?path=/assignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#@FarazV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#@FarazV2ray
+vless://3e4cf35f-ce6a-4275-feae-b69f03bf3a47@185.231.180.136:39846?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@FarazV2ray
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/#عضو شو : @zibanabz
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIti52LbZiCDYtNmIIDogQHppYmFuYWJ6IiwNCiAgImFkZCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201?#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+trojan://humanity@172.64.152.23:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#عضو شو : @zibanabz
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=/#عضو شو : @zibanabz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#عضو شو : @zibanabz

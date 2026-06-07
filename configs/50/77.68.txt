@@ -1,0 +1,10 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 3.2 | часть 68 (строки 3351-3354 из 3354)
+vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&amp;security=auto&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;fp=randomized&amp;type=ws&amp;sni=hajlab.ucdavis.edu#All
+vless://Channel-VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws&amp;sni=fishlab.ucdavis.edu#All
+vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?path=/@VPNCUSTOMIZE-----@VPNCUSTOMIZE-----@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE---@VPNCUSTOMIZE?ed=2560&amp;security=tls&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws&amp;sni=fishlab.ucdavis.edu#All
+vless://4e4d0a09-55f6-454d-98e5-0a8aed6a03e7@50.85.80.187:12217/?type=grpc&amp;encryption=none&amp;serviceName=mci.ir&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=5NrYPyQB-JlYMwahPmlg5GNTACYuMts24B9HKT3Vk0o&amp;fp=chrome&amp;sni=www.apple.com&amp;sid=21af&amp;spx=/#@DickiriptorBot

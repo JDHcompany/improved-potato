@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 20.2 | часть 34 (строки 1651-1700 из 1986)
+trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2560#
+trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&sni=support.zoom.us.nicorobin.eula.cloudns.org&type=ws&host=support.zoom.us.nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2560#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@16.163.9.83:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@165.154.253.65:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awshk10-tg-data.amazonwebservicess.com:443?allowInsecure=0&sni=data.amazonwebservicess.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awshk8-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awsjp11-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awsjp5-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awssg3-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0da48101-2af8-4a09-8bc6-ebe8feac7afe@awssg8-tg-data.amazonwebservicess.com:443?allowInsecure=0&sni=data.amazonwebservicess.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@5.34.182.21:443?sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awshk18-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awshk4-tg-data.amazonwebservicess.com:443?allowInsecure=0&peer=data.amazonwebservicess.com&sni=data.amazonwebservicess.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awshk4-tg-data.amazonwebservicess.com:443?allowInsecure=0&sni=data.amazonwebservicess.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awshk6-tg-data.amazonwebservicess.com:443?allowInsecure=0&sni=data.amazonwebservicess.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awsjp15-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awsjp2-data.amazon-azure.com:443?sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awsjp4-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@awsus5-data.amazon-azure.com:443?allowInsecure=0&sni=data.amazon-azure.com#
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@stw8-tg-data.amazonwebservicess.com:443?allowInsecure=0&sni=data.amazonwebservicess.com#
+trojan://0e13b5a9-cb62-44cd-b28e-47f137624694@t3.ssrsub.com:8443?allowInsecure=0#
+trojan://0e17b420-48a2-11f0-8c4d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#
+trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443/?type=tcp&security=tls#
+trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443/?type=tcp&security=tls&sni=support.zoom.us.www.speedtest.net#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:14846?sni=x46.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:17806?sni=x65.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20059?sni=x59.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20129?sni=z129.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20130?sni=z130.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20141?sni=z141.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20288?sni=z288.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20294?sni=x294.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20295?sni=z295.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:20296?sni=z296.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:21970?sni=x41.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:25238?sni=z267.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:28678?sni=z143.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:30712?sni=x83.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:33323?sni=z261.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:36821?sni=z262.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:41767?sni=x114.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:50355?sni=z264.hongkongnode.top#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:54178?sni=x115.flybar.work#
+trojan://0f03c152-504e-3ed8-aaea-dfbe20b12752@gg.xn--gmqa02ag57d.com:59021?sni=x100.flybar.work#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:16012/#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17107/#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:17108/#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:19365/#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@120.233.15.58:42541/#
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls#

@@ -3,37 +3,54 @@
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
 # announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 15.1 | часть 6 (строки 251-283 из 283)
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#v2ray_configs_pool-38
-trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&host=www.calmloud.com&fp=ios&type=ws&sni=www.calmloud.com#NormanV2ray-37
-trojan://humanity@185.18.250.252:443?sni=www.multiplydose.com&peer=www.multiplydose.com&security=tls#v2ray_configs_pool-36
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#v2ray_configs_pool-35
-trojan://humanity@185.18.250.252:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#v2ray_configs_pool-34
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#v2ray_configs_pool-33
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#v2ray_configs_pool-32
-trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#filembad-30
-trojan://fTkGeLgRco@arvancloud.ir:2082?type=ws&path=%2F&host=cli2.anami3.icu&security=none#NormanV2ray-28
-trojan://bX_lNHWoW6ywq82mI%3DKUr%2B8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=172.235.63.252#v2ray_configs_pool-27
-trojan://Telegram-Config0plus@104.17.108.189:443?path=%2Fca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#filembad-25
-trojan://SoftNetConnect@77.110.119.141:8443?mode=auto&path=%2F&security=reality&pbk=8Lxmb5xpH9b2Ib-rJoLX0CBAneCbQ_d7znRZB7HTvXc&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=cbabf939f6c5aa71#filembad-24
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#v2ray_configs_pool-21
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=%2F51.91.253.83&security=tls&insecure=0&host=gzjx.dpdns.org&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#canfingV2rayNG-20
-trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&security=tls#v2ray_configs_pool-19
-ss://YWVzLTI1Ni1nY206WWpGaE16a3pPVGxoTkRaaFpESXpNelZpTkdFeVpUQXlaVEJsTVdKaA@kyiv02.npvnot.com:443?prefix=%16%03%01%00%C2%A8%01%01#filembad-18
-ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#canfingV2rayNG-17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#v2ray_configs_pool-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#filembad-15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#filembad-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#canfingV2rayNG-13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip8.myspacex.shop:443#NetMeli9-12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip3.myspacex.shop:80#NetMeli9-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip3.myspacex.shop:20700#NetMeli9-10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#canfingV2rayNG-9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQVBpM1pTaWkwa3pjV29XYmlINjln@fastspeed.signalf.shop:10808#NetMeli9-8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#filembad-7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#v2ray_configs_pool-6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#v2ray_configs_pool-5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#NormanV2ray-4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#canfingV2rayNG-3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#NetMeli9-2
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#filembad-1
+# 11.2 | часть 6 (строки 251-300 из 435)
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@2.58.242.157:33992#@Vip_Security join us - 185
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@194.33.40.114:33992#@Vip_Security join us - 184
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@156.146.33.65:33992#@Vip_Security join us - 183
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#@Vip_Security join us - 182
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@185.134.22.115:48938#@Vip_Security join us - 181
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@156.146.33.83:48938#@Vip_Security join us - 180
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZK@138.199.19.167:48938#@Vip_Security join us - 179
+ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083#@Vip_Security join us - 178
+ss://YWVzLTI1Ni1jZmI6dkRTOUcycA@185.4.65.6:21247#@Vip_Security join us - 177
+ss://YWVzLTI1Ni1jZmI6cWF6cGxtbjEyMzY1NDdkcjQycQ@45.144.176.135:3001#@Vip_Security join us - 176
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#@Vip_Security join us - 175
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#@Vip_Security join us - 174
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#@Vip_Security join us - 173
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#@Vip_Security join us - 172
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.37.139.110:989#@Vip_Security join us - 171
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.37.136.249:989#@Vip_Security join us - 170
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#@Vip_Security join us - 169
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989#@Vip_Security join us - 168
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#@Vip_Security join us - 167
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#@Vip_Security join us - 166
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#@Vip_Security join us - 165
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.158.181:989#@Vip_Security join us - 164
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989#@Vip_Security join us - 163
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989#@Vip_Security join us - 162
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.136.80.36:989#@Vip_Security join us - 161
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#@Vip_Security join us - 160
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989#@Vip_Security join us - 159
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989#@Vip_Security join us - 158
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989#@Vip_Security join us - 157
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.32.29:989#@Vip_Security join us - 156
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.225.104:989#@Vip_Security join us - 155
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.233.65.67:989#@Vip_Security join us - 154
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989#@Vip_Security join us - 153
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#@Vip_Security join us - 152
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989#@Vip_Security join us - 151
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989#@Vip_Security join us - 150
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#@Vip_Security join us - 149
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#@Vip_Security join us - 148
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@176.10.80.6:989#@Vip_Security join us - 147
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#@Vip_Security join us - 146
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#@Vip_Security join us - 145
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989#@Vip_Security join us - 144
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzNy4yMzUuNTUuODQ6OTg5#@Vip_Security join us - 143
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AyMTMuMTM2LjgwLjM2Ojk4OQ#@Vip_Security join us - 142
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTUuMjExLjQxLjEwOjk4OQ#@Vip_Security join us - 141
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTQuNjguNDQuMjA2Ojk4OQ#@Vip_Security join us - 140
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuODkuMjM4LjM2Ojk4OQ#@Vip_Security join us - 139
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTEuMjM2LjIzLjEwNTo5ODk#@Vip_Security join us - 138
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1NC4zNy4xMzYuMjQ5Ojk4OQ#@Vip_Security join us - 137
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg1LjE1Ojk4OQ#@Vip_Security join us - 136

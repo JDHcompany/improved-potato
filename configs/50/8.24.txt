@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1.20 | часть 24 (строки 1151-1200 из 2115)
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.144.208-0232
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.89.176-0233
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.236.32-0235
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.65.107-0238
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#IS-37.235.49.209-0249
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-0237
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.81.84-1688
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#11%2C12%7C%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.132.38-0236%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-0237%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.89.176-0233%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.236.32-0235%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.65.107-0238%202
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#NO-80.173.231.254-0245%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.144.208-0232%202
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#IS-37.235.49.209-0249%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.81.84-1688%202
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#%5B%F0%9F%87%B3%F0%9F%87%B4%5D%20%5Btr-tl-ra%5D%20%5B260215-132856.431%5D
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%204
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%204
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%20196.1KB%2Fs
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#US%E7%BE%8E%E5%9B%BD10%202.1MB%2Fs
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?allowInsecure=0&sni=www.nintendogames.net#SG%E6%96%B0%E5%8A%A0%E5%9D%A13%205.6MB%2Fs
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#IS%E5%86%B0%E5%B2%9B%20944.6KB%2Fs
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=
+trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?security=tls&sni=028.eLECtRocEllco-Cf-028.worKErS.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#@AR14N24b
+trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.44.173:443/?type=tcp&security=tls&sni=
+trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=tcp&security=tls&sni=
+trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv#%40Hope_Net-join-us-on-Telegram
+trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv&security=tls&sni=
+trojan://%3AbC5%5Elakx%3E%24d@172.66.45.9:443?path=
+trojan://%3FM%7C%24pIEDnf8N@172.66.44.59:443?path=
+trojan://%3FM%7C%24pIEDnf8N@gkh7imomi--3t3xcstzt8pp4dlzueskn.pages.dev:443?path=
+trojan://%3FM%7C%24pIEDnf8N@www.speedtest.net:443?path=
+trojan://%F0%9F%A4%A0%4A%4B%56%50%4E%5F%4A%4B%56%50%4E%F0%9F%A4%A0@www.speedtest.net:80?path=
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=
+trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=
+trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
+trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=
+trojan://0000000@18.238.109.41:443/?type=tcp&security=tls&sni=
+trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
+trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=
+trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
+trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=
+trojan://0000000@3.168.86.38:443/?type=tcp&security=tls&sni=
+trojan://0000000@3.168.86.96:443/?type=tcp&security=tls&sni=
+trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443?type=tcp&sni=
+trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@104.21.69.44:443?security=tls&sni=
+trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@172.67.204.84:443?security=tls&sni=
+trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=

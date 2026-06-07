@@ -1,0 +1,27 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 8.2 | часть 7 (строки 301-321 из 321)
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:7000?encryption=none&path=/stream&security=none&type=ws#0333 - Unknown @CID_VPN
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@151.242.69.198:2053?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=%2F#0335 - Unknown @CID_VPN
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@46.243.211.17:7000?encryption=none&type=ws&security=none&path=%2Fstream&host=market.yandex.ru#0336 - Unknown @CID_VPN
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@185.92.183.41:8443?security=tls&type=ws&path=%2F&host=edt2-lgy.pages.dev&sni=edt2-lgy.pages.dev&fp=chrome#0338 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?security=tls&type=ws&path=%2F&host=1-brc.pages.dev&sni=1-brc.pages.dev&fp=chrome#0339 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&encryption=none&sni=1-brc.pages.dev&host=1-brc.pages.dev#0340 - Unknown @CID_VPN
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@23.175.201.2:8443?security=tls&type=ws&path=%2F&host=edt2-lgy.pages.dev&sni=edt2-lgy.pages.dev&fp=chrome#0341 - Unknown @CID_VPN
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@23.175.201.2:8443?host=edt2-lgy.pages.dev&path=%2F&security=tls&sni=edt2-lgy.pages.dev&type=ws#0342 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.128.35.216:2053?security=tls&type=ws&path=%2F&host=3-2ll.pages.dev&sni=3-2ll.pages.dev&fp=chrome#0343 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.128.35.216:2053?type=ws&security=tls&encryption=none&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#0344 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@112.171.78.221:13579?allowInsecure=0&type=ws&security=tls&encryption=none&fp=chrome&sni=tptpss.pages.dev&host=tptpss.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#0345 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?type=ws&security=tls&encryption=none&sni=1-bhn.pages.dev&host=1-bhn.pages.dev#0346 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?type=ws&security=tls&encryption=none&sni=2-eox.pages.dev&host=2-eox.pages.dev#0347 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@31.130.149.85:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=2-eox.pages.dev&host=2-eox.pages.dev#0348 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&encryption=none&sni=3-7gj.pages.dev&host=3-7gj.pages.dev#0349 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@84.22.149.236:8443?security=tls&type=ws&path=%2F&host=1-jk1.pages.dev&sni=1-jk1.pages.dev&fp=chrome#0350 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@84.22.149.236:8443?type=ws&security=tls&encryption=none&sni=1-jk1.pages.dev&host=1-jk1.pages.dev#0351 - Unknown @CID_VPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@69.63.202.30:25564?type=ws&security=tls&encryption=none&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#0353 - Unknown @CID_VPN
+vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-rou-0001.api.neuralrelay.stream:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=b211e46c93&sni=hls-svod.itunes.apple.com&spx=/#0354 - Unknown @CID_VPN
+vless://4649d681-7f26-4959-a3f2-02eb8866230f@72.56.34.155:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298#0356 - Unknown @CID_VPN
+vless://26524cce-d514-4014-a426-365fb266a14d@218.152.227.25:12000?sni=e43zyc.cdn-edge-jp.fgfw.qzz.io&alpn=http/1.1%0A&type=ws&host=e43zyc.cdn-edge-jp.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#0357 - Unknown @CID_VPN
