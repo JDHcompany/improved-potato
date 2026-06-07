@@ -1,0 +1,7 @@
+# profile-title: ⚡️#RKP_work ->1
+# profile-update-interval: 1
+# subscription-userinfo: upload=10737418240000000; download=0; total=10737418250000000; expire=2546249531
+# support-url: https://t.me/RKP_channel
+# Свобода заключается в смелости!
+
+vless://fb89a947-0d5b-43b2-982e-20b89d48d161@51.250.96.237:443?encryption=none&fp=chrome&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&security=reality&sid=cc015aacdfd7cfd7&sni=ads.x5.ru&type=grpc#Конфиги съели модераторы Кибернасрала
