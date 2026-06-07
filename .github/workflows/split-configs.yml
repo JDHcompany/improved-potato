@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Устанавливаем fping и parallel для массового пинга
       - name: Установка утилит
         run: sudo apt-get update && sudo apt-get install -y fping parallel
 
@@ -70,12 +69,12 @@ jobs:
           
           echo "Готово! Обработано конфигов: $((i-1))"
 
-      # Новый шаг: отбор лучших 1000 конфигов по пингу и нарезка по 200
-      - name: Отбор лучших 1000 конфигов по пингу
+      # Новый шаг: отбор лучших 200 конфигов по пингу и нарезка по 50
+      - name: Отбор лучших 200 конфигов по пингу и нарезка по 50
         run: |
-          mkdir -p best/200
+          mkdir -p best/50
           
-          # Собираем ВСЕ уникальные конфиги из исходных файлов
+          # Собираем уникальные конфиги
           cat my-configs/*.txt 2>/dev/null | grep -E '^(vless|trojan|vmess|ss|hy2)://' | sort -u > all_unique.txt
           total_unique=$(wc -l < all_unique.txt)
           echo "Всего уникальных конфигов: $total_unique"
@@ -85,21 +84,17 @@ jobs:
             exit 0
           fi
           
-          # Функция извлечения хоста (IP или домен) из URI
+          # Функция извлечения хоста
           extract_host() {
             local uri="$1"
-            # Удаляем протокол и всё до @
             local without_proto=$(echo "$uri" | sed -E 's|^[a-z]+://||')
-            # Если есть @, берём часть после @
             if echo "$without_proto" | grep -q '@'; then
               without_proto=$(echo "$without_proto" | sed -E 's/.*@//')
             fi
-            # Теперь вырезаем хост: до первого : или / или ?
             echo "$without_proto" | sed -E 's/^([^:/?]+).*/\1/'
           }
           
-          # Создаём временный файл для сопоставления хост -> конфиг
-          # Формат: хост;конфиг (URL-кодирование не нужно, используем разделитель ';')
+          # Сопоставление хост -> конфиг
           rm -f host_config.txt
           while IFS= read -r config; do
             host=$(extract_host "$config")
@@ -108,67 +103,65 @@ jobs:
             fi
           done < all_unique.txt
           
-          # Получаем уникальные хосты и пингуем их
+          # Уникальные хосты
           cut -d';' -f1 host_config.txt | sort -u > unique_hosts.txt
           echo "Уникальных хостов для пинга: $(wc -l < unique_hosts.txt)"
           
-          # Функция пинга одного хоста (вывод: хост пинг)
+          # Функция пинга
           ping_host() {
             local host="$1"
-            # fping -C 3 -q даёт три ответа, берём среднее
             local avg=$(fping -C 3 -q "$host" 2>&1 | awk -F'[:/]' '{print $2}' | awk '{sum+=$1; n++} END {if(n>0) print sum/n; else print -1}')
             if [ -z "$avg" ] || [ "$avg" = "-1" ]; then
-              echo "$host 999999"  # недоступен
+              echo "$host 999999"
             else
               echo "$host $avg"
             fi
           }
           export -f ping_host
           
-          # Параллельный пинг всех уникальных хостов (50 параллельных процессов)
+          # Параллельный пинг (50 процессов)
           cat unique_hosts.txt | parallel -j 50 ping_host {} > ping_results.txt
           
-          # Собираем конфиги с их пингом
-          # Сначала создаём ассоциативный массив хост -> пинг
+          # Массив хост -> пинг
           declare -A host_ping
           while IFS=' ' read -r host ping; do
             host_ping["$host"]="$ping"
           done < ping_results.txt
           
-          # Формируем список "пинг конфиг" и сортируем
+          # Формируем список "пинг конфиг"
           rm -f config_with_ping.txt
           while IFS=';' read -r host config; do
             ping=${host_ping["$host"]:-999999}
             echo "$ping $config" >> config_with_ping.txt
           done < host_config.txt
           
-          # Сортируем по пингу (по возрастанию) и берём первые 1000
-          sort -n config_with_ping.txt | head -1000 | cut -d' ' -f2- > best_1000.txt
-          echo "Отобрано лучших конфигов: $(wc -l < best_1000.txt)"
+          # Сортируем по пингу и берём первые 200
+          sort -n config_with_ping.txt | head -200 | cut -d' ' -f2- > best_200.txt
+          best_count=$(wc -l < best_200.txt)
+          echo "Отобрано лучших конфигов: $best_count"
           
-          # Нарезаем на паки по 200 строк
-          total_best=$(wc -l < best_1000.txt)
+          # Нарезка по 50 строк
           part=1
           start=1
-          while [ "$start" -le "$total_best" ]; do
-            end=$((start + 200 - 1))
-            if [ "$end" -gt "$total_best" ]; then end=$total_best; fi
+          while [ "$start" -le "$best_count" ]; do
+            end=$((start + 50 - 1))
+            if [ "$end" -gt "$best_count" ]; then end=$best_count; fi
             
-            output="best/200/best_${part}.txt"
+            output="best/50/best_${part}.txt"
             {
               echo "# profile-title: 🎁improved-potatoVPN💩 (лучшие по пингу)"
               echo "# profile-update-interval: 1"
               echo "# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800"
               echo "# support-url: https://t.me/freevpnconf_bot"
               echo "# announce: Анонсы и реклама: https://t.me/freevpnconf_bot"
-              echo "# Лучшие конфиги | часть $part (строки $start-$end из $total_best)"
-              sed -n "${start},${end}p" best_1000.txt
+              echo "# Лучшие конфиги | часть $part (строки $start-$end из $best_count)"
+              sed -n "${start},${end}p" best_200.txt
             } > "$output"
             
             part=$((part + 1))
             start=$((end + 1))
           done
-          echo "Создано $((part-1)) файлов в best/200"
+          echo "Создано $((part-1)) файлов в best/50"
 
       - name: Создать counts.json (уникальные серверы из исходников + best)
         run: |
@@ -194,10 +187,10 @@ jobs:
             echo "  }," >> configs/counts.json
           done
           
-          # Добавляем статистику для лучших конфигов
+          # Добавляем статистику для лучших конфигов (размер нарезки 50)
           echo '  "best": {' >> configs/counts.json
           first=1
-          for file in best/200/*.txt; do
+          for file in best/50/*.txt; do
             if [ -f "$file" ]; then
               name=$(basename "$file" .txt)
               count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
@@ -225,5 +218,5 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add configs/ best/
-          git diff --staged --quiet || git commit -m "Нарезка конфигов и лучшие по пингу $(date -u +%Y-%m-%dT%H:%MZ)"
+          git diff --staged --quiet || git commit -m "Нарезка конфигов и лучшие 200 по пингу (паки 50)"
           git push
