@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Мои VPN конфиги</title>
+  <title>VPN конфиги</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -12,7 +12,7 @@
       font-family: system-ui, -apple-system, sans-serif;
       padding: 20px;
     }
-    .container { max-width: 900px; margin: 0 auto; }
+    .container { max-width: 1000px; margin: 0 auto; }
     h1 {
       font-size: 2rem;
       margin-bottom: 0.5rem;
@@ -20,13 +20,32 @@
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
-    .sub {
-      color: #71717a;
+    .sub { color: #71717a; margin-bottom: 2rem; }
+    
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
       margin-bottom: 2rem;
-      border-left: 3px solid #06b6d4;
-      padding-left: 1rem;
     }
-    .total {
+    .filter-btn {
+      background: #1f1f2a;
+      border: 1px solid #2a2a35;
+      padding: 0.6rem 1.2rem;
+      border-radius: 2rem;
+      cursor: pointer;
+      color: #a1a1aa;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+    .filter-btn.active {
+      background: #06b6d4;
+      color: white;
+      border-color: #06b6d4;
+    }
+    .filter-btn:hover { background: #2a2a35; }
+    
+    .stats {
       background: linear-gradient(145deg, #16161b 0%, #121216 100%);
       border: 1px solid #06b6d440;
       border-radius: 1rem;
@@ -34,69 +53,36 @@
       text-align: center;
       margin-bottom: 2rem;
     }
-    .total .number { font-size: 3rem; font-weight: bold; color: #06b6d4; }
-    .total .label { color: #71717a; font-size: 0.9rem; }
-    .filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      margin-bottom: 2rem;
+    .stats .number { font-size: 2.5rem; font-weight: bold; color: #06b6d4; }
+    
+    .configs-grid {
+      display: grid;
+      gap: 1rem;
     }
-    .filter-btn {
-      background: #1f1f2a;
-      border: 1px solid #2a2a35;
-      padding: 0.5rem 1rem;
-      border-radius: 2rem;
-      cursor: pointer;
-      color: #a1a1aa;
-      transition: all 0.2s;
-    }
-    .filter-btn.active { background: #06b6d4; color: white; border-color: #06b6d4; }
-    .filter-btn:hover { background: #2a2a35; }
     .card {
       background: linear-gradient(145deg, #16161b 0%, #121216 100%);
       border-radius: 1rem;
-      padding: 1.5rem;
-      margin-bottom: 1rem;
+      padding: 1.2rem 1.5rem;
       border: 1px solid rgba(255,255,255,0.05);
       transition: all 0.2s;
-    }
-    .card:hover { border-color: rgba(6,182,212,0.3); transform: translateY(-2px); }
-    .card-header {
       display: flex;
       justify-content: space-between;
       align-items: center;
       flex-wrap: wrap;
       gap: 1rem;
-      margin-bottom: 0.5rem;
     }
-    .card h3 { font-size: 1.25rem; display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
-    .badge {
-      display: inline-block;
-      background: #06b6d420;
-      border: 1px solid #06b6d440;
-      border-radius: 0.5rem;
-      padding: 0.25rem 0.75rem;
-      font-size: 0.7rem;
-    }
-    .badge.source { background: #8b5cf620; border-color: #8b5cf640; color: #a78bfa; }
-    .servers-count {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      background: #00000040;
-      padding: 0.25rem 0.75rem;
-      border-radius: 2rem;
-      font-size: 0.75rem;
-    }
+    .card:hover { border-color: rgba(6,182,212,0.3); }
+    .card-info h3 { font-size: 1rem; margin-bottom: 0.25rem; }
+    .card-info .size { font-size: 0.75rem; color: #71717a; }
     .url {
       font-family: monospace;
       font-size: 0.7rem;
       background: #00000040;
-      padding: 0.75rem;
+      padding: 0.5rem 0.75rem;
       border-radius: 0.5rem;
       word-break: break-all;
-      margin: 1rem 0;
+      flex: 1;
+      min-width: 200px;
     }
     button {
       background: #06b6d4;
@@ -112,128 +98,102 @@
     .footer { text-align: center; padding: 2rem; color: #52525b; font-size: 0.75rem; }
     .update-time { text-align: center; font-size: 0.7rem; color: #52525b; margin-top: 1rem; }
     .loading { text-align: center; padding: 3rem; color: #71717a; }
-    @media (max-width: 640px) {
-      .card-header { flex-direction: column; align-items: flex-start; }
-      .url { font-size: 0.6rem; }
+    
+    @media (max-width: 700px) {
+      .card { flex-direction: column; align-items: stretch; }
+      .url { text-align: center; }
     }
   </style>
 </head>
 <body>
 <div class="container">
   <h1>📡 Мои VPN конфиги</h1>
-  <p class="sub">Нарезанные конфиги | Обновляется автоматически</p>
+  <p class="sub">Нарезка по 50 / 100 / 200 / 300 строк | Обновляется каждый час</p>
 
-  <div class="total">
+  <div class="stats">
     <div class="number" id="totalCount">—</div>
-    <div class="label">всего уникальных серверов</div>
+    <div>всего уникальных серверов</div>
   </div>
 
   <div class="filters">
-    <button class="filter-btn active" data-filter="all">Все</button>
-    <button class="filter-btn" data-filter="short">Короткие (.1)</button>
-    <button class="filter-btn" data-filter="full">Полные (.2)</button>
-    <button class="filter-btn" data-filter="numbers">Только номера</button>
+    <button class="filter-btn active" data-size="50">📄 50 строк</button>
+    <button class="filter-btn" data-size="100">📄 100 строк</button>
+    <button class="filter-btn" data-size="200">📄 200 строк</button>
+    <button class="filter-btn" data-size="300">📄 300 строк</button>
   </div>
 
   <div id="configsList" class="loading">Загрузка конфигов...</div>
   <div class="update-time" id="updateTime"></div>
   <div class="footer">
-    🔹 Конфиги нарезаны по ~300 строк<br>
-    🔹 Нажми на ссылку, чтобы скопировать
+    🔹 Нажми на кнопку, чтобы скопировать ссылку<br>
+    🔹 Каждый файл содержит до указанного количества строк
   </div>
 </div>
 
 <script>
   const base = window.location.origin + '/configs/';
-  let allConfigs = [];
-  let countsData = {};
-  let currentFilter = 'all';
+  let allData = {};
+  let currentSize = '50';
 
   async function loadData() {
     try {
-      const countsRes = await fetch(base + 'counts.json?t=' + Date.now());
-      if (countsRes.ok) {
-        countsData = await countsRes.json();
-        document.getElementById('totalCount').innerText = countsData.totalUnique || 0;
-        if (countsData.updated) {
-          const date = new Date(countsData.updated);
-          document.getElementById('updateTime').innerHTML = '🕐 Последнее обновление: ' + date.toLocaleString('ru-RU');
-        }
+      const res = await fetch(base + 'counts.json?t=' + Date.now());
+      if (!res.ok) throw new Error('counts.json не найден');
+      allData = await res.json();
+      
+      document.getElementById('totalCount').innerText = allData.totalUnique || 0;
+      
+      if (allData.updated) {
+        const date = new Date(allData.updated);
+        document.getElementById('updateTime').innerHTML = '🕐 Последнее обновление: ' + date.toLocaleString('ru-RU');
       }
       
-      const possibleIds = [];
-      for (let i = 1; i <= 50; i++) {
-        possibleIds.push(`${i}.1`);
-        possibleIds.push(`${i}.2`);
-      }
-      for (let i = 1; i <= 50; i++) {
-        possibleIds.push(`${i}`);
-      }
-      
-      const existingFiles = [];
-      for (const id of possibleIds) {
-        const url = base + id + '.txt';
-        try {
-          const res = await fetch(url, { method: 'HEAD' });
-          if (res.ok) {
-            const count = countsData[id] || '?';
-            existingFiles.push({ id, url, count });
-          }
-        } catch(e) {}
-      }
-      
-      allConfigs = existingFiles;
       renderConfigs();
     } catch(e) {
       document.getElementById('configsList').innerHTML = '<div class="card">⚠️ Ошибка загрузки. Запустите Actions вручную.</div>';
     }
   }
 
-  function getFileType(id) {
-    if (id.includes('.1')) return 'short';
-    if (id.includes('.2')) return 'full';
-    return 'numbers';
-  }
-
-  function getSourceName(id) {
-    if (id.includes('.1')) return '📄 Короткий';
-    if (id.includes('.2')) return '📚 Полный';
-    return '🔢 Основной';
-  }
-
   function renderConfigs() {
-    let filtered = allConfigs;
-    if (currentFilter === 'short') filtered = allConfigs.filter(c => c.id.includes('.1'));
-    else if (currentFilter === 'full') filtered = allConfigs.filter(c => c.id.includes('.2'));
-    else if (currentFilter === 'numbers') filtered = allConfigs.filter(c => !c.id.includes('.'));
-    
-    const container = document.getElementById('configsList');
-    if (filtered.length === 0) {
-      container.innerHTML = '<div class="card">Нет конфигов в этой категории</div>';
+    const sizeData = allData[currentSize];
+    if (!sizeData) {
+      document.getElementById('configsList').innerHTML = '<div class="card">Нет данных для этого размера</div>';
       return;
     }
     
-    container.innerHTML = filtered.map(config => `
+    const files = Object.entries(sizeData);
+    if (files.length === 0) {
+      document.getElementById('configsList').innerHTML = '<div class="card">Нет файлов для этого размера</div>';
+      return;
+    }
+    
+    const container = document.getElementById('configsList');
+    container.innerHTML = files.map(([name, count]) => `
       <div class="card">
-        <div class="card-header">
-          <h3>📁 Конфиг ${config.id}<span class="badge source">${getSourceName(config.id)}</span></h3>
-          <div class="servers-count">🔹 ${config.count !== '?' ? config.count.toLocaleString() + ' серверов' : 'серверов: ' + config.count}</div>
+        <div class="card-info">
+          <h3>📁 ${name}.txt</h3>
+          <div class="size">🔹 ${count.toLocaleString()} конфигов в файле</div>
         </div>
-        <div class="url">${config.url}</div>
-        <button onclick="copyUrl('${config.url}')">📋 Скопировать ссылку</button>
+        <div class="url">${base}${currentSize}/${name}.txt</div>
+        <button onclick="copyUrl('${base}${currentSize}/${name}.txt')">📋 Копировать</button>
       </div>
     `).join('');
   }
 
   function copyUrl(url) {
-    navigator.clipboard.writeText(url).then(() => alert('✅ Ссылка скопирована!')).catch(() => alert('❌ Не удалось скопировать'));
+    navigator.clipboard.writeText(url).then(() => {
+      alert('✅ Ссылка скопирована!');
+    }).catch(() => {
+      alert('❌ Не удалось скопировать');
+    });
   }
 
+  // Фильтры
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      currentFilter = btn.dataset.filter;
+      currentSize = btn.dataset.size;
       renderConfigs();
     });
   });
