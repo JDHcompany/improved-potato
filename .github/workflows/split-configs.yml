@@ -71,7 +71,7 @@ jobs:
           
           echo "Готово! Обработано конфигов: $((i-1))"
 
-      - name: Создать counts.json (валидный JSON)
+      - name: Создать counts.json (валидный JSON, исправлено)
         run: |
           echo '{' > configs/counts.json
           echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
@@ -82,7 +82,8 @@ jobs:
             for file in configs/$size/*.txt; do
               if [ -f "$file" ]; then
                 name=$(basename "$file" .txt)
-                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file' 2>/dev/null || echo 0)
+                # ИСПРАВЛЕНО: убрана лишняя кавычка
+                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
                 if [ $first -eq 1 ]; then
                   first=0
                 else
@@ -91,17 +92,25 @@ jobs:
                 echo -n "    \"$name\": $count" >> configs/counts.json
               fi
             done
+            # Завершаем объект размера
             echo "" >> configs/counts.json
             echo "  }," >> configs/counts.json
           done
           
           total=$(cat configs/*/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
-          echo '  "totalUnique": '$total'' >> configs/counts.json
+          echo '  "totalUnique": '$total >> configs/counts.json
           echo '}' >> configs/counts.json
           
-          echo "totalUnique: $total"
-          echo "Проверка JSON:"
-          cat configs/counts.json | python3 -m json.tool || echo "Ошибка JSON"
+          # Отладка: проверим JSON
+          echo "--- Содержимое counts.json ---"
+          cat configs/counts.json
+          echo "--- Проверка JSON ---"
+          if command -v jq &> /dev/null; then
+            jq . configs/counts.json && echo "JSON валиден"
+          else
+            # простая проверка: попробуем прочитать через python
+            python3 -c "import json, sys; json.load(open('configs/counts.json'))" && echo "JSON валиден" || echo "JSON НЕВАЛИДЕН"
+          fi
 
       - name: Сохранить в репозиторий
         run: |
