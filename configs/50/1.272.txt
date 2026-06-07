@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 272 (строки 13551-13600 из 13792)
 vmess://eyJhZGQiOiIxMDQuMjEuOC40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYnYyLmZydG05OWQuY3lvdSIsImlkIjoiYWM2Nzk4OTctYWY3OC00MTk3LTliZjMtYTJhZmU5NzJhMzgzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYnYyLmZydG05OWQuY3lvdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.51.82:443/?type=ws&encryption=none&flow=&host=PPAl03...&security=tls&sni=PPAl03.CaMRON-kerTzManN-dDS.wORkers.dEV

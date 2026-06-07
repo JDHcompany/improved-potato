@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 28 (строки 8101-8400 из 13792)
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.25.55.212:443/?type=ws&encryption=none&flow=&host=rayan-08.leila.dpdns.org&path=%2F%40Filter_breaker&security=tls&sni=rayan-08.leila.dpdns.org&fp=chrome#%F0%9F%8C%8030%40oneclickvpnkeys
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@homestead.com:443/?type=ws&encryption=none&flow=&host=rayan-11.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-11.LeIlA.DpDnS.OrG&fp=chrome#%F0%9F%8C%8037%40oneclickvpnkeys

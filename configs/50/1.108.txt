@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 108 (строки 5351-5400 из 13792)
 vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.44.83:443/?type=ws&encryption=none&flow=&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.54:443/?type=ws&encryption=none&flow=&host=dsb.ylks.us.kg&path=%2F%3F...&security=tls&sni=dsb.ylks.us.kg

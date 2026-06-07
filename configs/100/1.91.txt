@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 91 (строки 9001-9100 из 13792)
 trojan://aq8fDUEzAt@81.28.12.12:443/?type=ws&host=shabshodeporsetare.com&path=%2F13035%2Fhfiid&security=tls&sni=mihanhost.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random#%40v2ray_configs_pool
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@104.21.26.58:443/?type=ws&encryption=none&flow=&host=freedom13.bypasojd.workers.dev&path=%2F&security=tls&sni=freedom13.bypasojd.workers.dev#%40v2ray_configs_pool

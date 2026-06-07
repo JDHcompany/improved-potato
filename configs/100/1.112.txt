@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 112 (строки 11101-11200 из 13792)
 ss://77-9TR9r77-977-977-977-9Nu-_ve-_vTXvv73PmntdPu-_vTnvv71e77-9d045Ou-_vU0fa--_ve-_ve-_ve-_vTbvv73vv70177-9z5p7XT7vv70577-9Xu-_vXdOOQ@135.181.32.163:8443#%40Hope_Net
 ss://a13vv71_77-9NO-_vU3vv71z77-9Ou-_ve-_ve-_vXPvv71-ee-_vXbvv73vv73vv71x3po@141.101.122.188:443#%40Hope_Net

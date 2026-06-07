@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 256 (строки 12751-12800 из 13792)
 trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-158.178.206.197-1207
 trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AC%F0%9F%87%A7GB-109.169.76.23-1208

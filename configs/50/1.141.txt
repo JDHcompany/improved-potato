@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 141 (строки 7001-7050 из 13792)
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2#%F0%9F%AA%8511%40oneclickvpnkeys
 vless://e7bc7c8e-07bb-4ff8-a06a-39b8665be2d4@162.159.241.5:2053/?type=ws&encryption=none&flow=&host=chat.neshaan.org&path=%2Fadmins%3Fed%3D2560&security=tls&sni=chat.neshaan.org&alpn=http%2F1.1&fp=chrome#%F0%9F%AA%859%40oneclickvpnkeys

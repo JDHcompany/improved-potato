@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 239 (строки 11901-11950 из 13792)
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&encryption=none&flow=&host=Noshteri.hooplnqpb.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=Noshteri.hooplnqpb.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@45.131.208.81:443/?type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&security=tls&sni=403B3611-99BC-43b7-88D7-26eD5d0825A9-3.PaGES.dEv#%40Hope_Net-join-us-on-Telegram

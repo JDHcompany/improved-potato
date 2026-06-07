@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 276 (строки 13751-13792 из 13792)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector

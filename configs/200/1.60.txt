@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 60 (строки 11801-12000 из 13792)
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443/?type=tcp&security=tls&sni=avianrecruit.com#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.73:443/?type=ws&encryption=none&flow=&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&security=tls&sni=behdasht.hrtc.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram

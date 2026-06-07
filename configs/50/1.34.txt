@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 34 (строки 1651-1700 из 13792)
 vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiLwn4ew8J+Hv0themFraHN0YW4gLVx1MDAzZSDwn4ew8J+Hv0themFraHN0YW4g4pqhQERlYW1OZXRfUHJveHkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443/?type=ws&encryption=none&flow=&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab&security=tls&sni=dabaius2.sylu.net#%F0%9F%87%A8%F0%9F%87%A6Canada%2B-%3E%2B%F0%9F%87%AD%F0%9F%87%B0Hong%2BKong%2B%E2%9A%A1%40DeamNet_Proxy%20%281%29

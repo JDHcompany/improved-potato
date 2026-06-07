@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 63 (строки 12401-12600 из 13792)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.187:443/?type=ws&encryption=none&flow=&path=%2Ffreecodes&security=tls&sni=ds.ylks.xyz#%40Hope_Net-join-us-on...
 trojan://blue2024@75.2.32.4:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram

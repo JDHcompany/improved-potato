@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 155 (строки 7701-7750 из 13792)
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443/?type=tcp&encryption=none&flow=&security=tls&sni=pl1.fromblancwithlove.com#%40Hope_Net-join-us-on-Telegram
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@192.200.160.15:8443/?type=ws&encryption=none&flow=&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngx.ambercc.filegear-sg.me&alpn=http%2F1.1#%40Hope_Net-join-us-on-Telegram

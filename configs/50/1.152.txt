@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 152 (строки 7551-7600 из 13792)
 vless://ce921385-2b31-45fe-84c5-1843e8ae845b@104.21.68.76:443/?type=ws&encryption=none&flow=&host=cccccccf.222769.xyz&path=%2F1xrOld7e5RpK3I98dxLkez&security=tls&sni=ccCcCcCf.222769.Xyz#%F0%9F%92%A729%40oneclickvpnkeys
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80/?type=ws&encryption=none&flow=&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%92%A739%40oneclickvpnkeys

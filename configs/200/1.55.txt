@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 55 (строки 10801-11000 из 13792)
 trojan://auto@104.26.9.160:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 vless://62f8a203-fd98-5ab6-9ddc-cccf35e57570@104.21.22.239:2052/?type=ws&encryption=none&flow=&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89...

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 6 (строки 1001-1200 из 13792)
 vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?encryption=none&security=none&type=tcp&headerType=none#telegram%20%F0%9F%9A%80%20dailyv2ry
 ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:443?#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FPiscataway%F0%9F%85%BF%EF%B8%8Fping%3A103.09ms%2053%20dailyv2ry

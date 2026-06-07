@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 114 (строки 5651-5700 из 13792)
 vmess://eyJhZGQiOiIxNjIuMTU5LjI1MC43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0YmYwNzRmNC03ZTljLTRlNGItYTEwZC0xNTZlMjYxOTk3MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4+BUkVMQVktMTYyLjE1OS4yNTAuNzYtNjAyMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vmess://eyJhZGQiOiIxNzIuNjcuMTU4Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlhY2NmNzNmLTczNzItNDQwMy1iMzFlLTBmODNkODZmZWI5OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9qc2VkcjZkZWVyc2VkNmg/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+PgVJFTEFZLTE3Mi42Ny4xNTguOTctNjExOSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJ2ZXI1NC00Ljk5ODg3Ny5iZXN0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0

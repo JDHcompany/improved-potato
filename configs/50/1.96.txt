@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 96 (строки 4751-4800 из 13792)
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fit.jojack.ru&fp=chrome&security=reality&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3#Wx
 vless://fec17569-c5a0-4b76-924c-d20a4054f20b@nl.rush-server.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=findmypackets.com&fp=chrome&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#%F0%9F%87%B3%F0%9F%87%B1AZARBAYJAB1

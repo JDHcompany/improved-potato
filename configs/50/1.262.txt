@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 262 (строки 13051-13100 из 13792)
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.103.0:80/?type=ws&encryption=none&flow=&host=en.mfa.gov.ir#%40Hope_Net-join-us-on-Telegram
 vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.70:8080/?type=httpupgrade&encryption=none&flow=&host=mahil1.hal-ma.info&path=%2F%3Fed%3D2087#%40Ho...

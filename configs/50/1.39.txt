@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 39 (строки 1901-1950 из 13792)
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.182.183:80/?type=ws&encryption=none&flow=&host=us3.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegr...
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880/?type=ws&encryption=none&flow=#%40Hope_Net-join-us-on-Telegram

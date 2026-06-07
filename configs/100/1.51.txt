@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 51 (строки 5001-5100 из 13792)
 vless://b59a150a-7096-49fd-8081-368c518e83d0@172.67.192.145:443/?type=grpc&encryption=none&flow=&serviceName=v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1&security=tls&sni=v2rayfree1.v2rayfree1.space&alpn=h3%2Ch2%2Chttp%2F1.1#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443/?type=ws&encryption=none&flow=&host=6b700...&security=tls&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev

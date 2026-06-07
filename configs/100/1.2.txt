@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 2 (строки 101-200 из 13792)
 ss://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@51.250.54.70:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=esa-res.online.sberbank.ru&fp=chrome&security=reality&pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&sid=846229eb47b3a5c9#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:41.9ms
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.91:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.72ms

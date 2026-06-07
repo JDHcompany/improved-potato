@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 92 (строки 4551-4600 из 13792)
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80/?type=ws&encryption=none&flow=&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%90%8BTel%3A
 vless://85470882-8f79-bc91-b88e-b7133cbcc6f8@crm.0cdn.ir:80/?type=ws&encryption=none&flow=&host=www.gijb-movies.ir&path=%2Fstream#%40v2rays_ha

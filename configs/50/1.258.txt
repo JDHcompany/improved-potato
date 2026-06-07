@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 258 (строки 12851-12900 из 13792)
 vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80/?type=ws&encryption=none&flow=&host=Fi2.vless.site.&path=%2Fvless%23TELEGRAM-MARAMBASHI%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.34:2082/?type=httpupgrade&encryption=none&flow=&host=finhztco.nipytee.info&path=%2F#%40Hope_Ne...

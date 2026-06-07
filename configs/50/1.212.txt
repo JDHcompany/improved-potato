@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 212 (строки 10551-10600 из 13792)
 vless://9686c671-2b7b-55a0-a613-4355659df1e1@188.114.97.1:2087/?type=ws&encryption=none&flow=&host=sholiii.hossein-f.wOrkERs.dev&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sholiii.hossein-f.wOrkERs.dev&alpn=http%2F1.1#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.66:443/?type=tcp&security=tls

@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 74 (строки 7301-7400 из 13792)
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.135.44.101:30002/?type=ws&encryption=none&flow=&host=ngedo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.47.71:443/?type=ws&encryption=none&flow=&host=sjgi.pages.dev&security=tls&sni=sjgi.pages.dev#%40Hope_Net-join-u...

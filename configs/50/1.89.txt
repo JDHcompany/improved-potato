@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 89 (строки 4401-4450 из 13792)
 vless://3ff60b54-f6d6-467f-9189-df1a0567c647@151.101.195.8:80/?type=ws&encryption=none&flow=&host=norbert-team-free1.global.ssl.fastly.net&path=%2F%3Fed%3D2052%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#%F0%9F%87%A9%F0%9F%87%AA%40EVAY_VPN
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880/?type=httpupgrade&encryption=none&flow=&host=2.fan1.www.speedtest.net.blue99shop.ir&path=%2F#FI%F0%9F%87%AB%F0%9F%87%AE2

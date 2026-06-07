@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 61 (строки 6001-6100 из 13792)
 vless://c0313f79-308d-4f72-9552-0a63bc89caf7@104.21.92.57:2087/?type=ws&encryption=none&flow=&host=panel.proxystore11.ne...&security=tls&sni=panel.proxystore11.news
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.144:443/?type=ws&encryption=none&flow=&host=edccd.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram

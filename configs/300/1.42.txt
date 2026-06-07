@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot
 # 1_14 | часть 42 (строки 12301-12600 из 13792)
 vmess://eyJhZGQiOiIxOTUuODUuNTkuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvcGVuLmFsaXBheS5vdmgiLCJpZCI6ImE5NDE3MWJlLWIzODctNGYwMi1hNWVmLWExYjRiN2EyNmMwNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmllcz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.148:80/?type=ws&encryption=none&flow=&host=little-fog-5666.netmousavi.workers.dev&path=%2F2qvm12oXHjqFgfZN%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
