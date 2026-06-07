@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>improved-potatoVPN</title>
+  <title>VPN конфиги</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -21,27 +21,6 @@
       -webkit-text-fill-color: transparent;
     }
     .sub { color: #71717a; margin-bottom: 2rem; }
-    
-    .info-bar {
-      background: linear-gradient(145deg, #16161b 0%, #121216 100%);
-      border: 1px solid #06b6d440;
-      border-radius: 1rem;
-      padding: 1rem 1.5rem;
-      margin-bottom: 2rem;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
-    }
-    .info-item {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      font-size: 0.85rem;
-    }
-    .info-item a { color: #06b6d4; text-decoration: none; }
-    .info-item a:hover { text-decoration: underline; }
     
     .filters {
       display: flex;
@@ -119,25 +98,18 @@
     .footer { text-align: center; padding: 2rem; color: #52525b; font-size: 0.75rem; }
     .update-time { text-align: center; font-size: 0.7rem; color: #52525b; margin-top: 1rem; }
     .loading { text-align: center; padding: 3rem; color: #71717a; }
+    .error { color: #f87171; background: #2a1a1a; padding: 1rem; border-radius: 1rem; text-align: center; }
     
     @media (max-width: 700px) {
       .card { flex-direction: column; align-items: stretch; }
       .url { text-align: center; }
-      .info-bar { flex-direction: column; text-align: center; }
     }
   </style>
 </head>
 <body>
 <div class="container">
-  <h1>🎁 improved-potatoVPN 💩</h1>
+  <h1>📡 Мои VPN конфиги</h1>
   <p class="sub">Нарезка по 50 / 100 / 200 / 300 строк | Обновляется каждый час</p>
-
-  <div class="info-bar" id="infoBar">
-    <div class="info-item">🔄 Обновление: 1 час</div>
-    <div class="info-item">💾 Безлимит / Навсегда</div>
-    <div class="info-item">📢 Поддержка: <a href="#" id="supportLink" target="_blank">Telegram</a></div>
-    <div class="info-item">📢 Объявление: <a href="#" id="announceLink" target="_blank">Telegram</a></div>
-  </div>
 
   <div class="stats">
     <div class="number" id="totalCount">—</div>
@@ -160,48 +132,56 @@
 </div>
 
 <script>
-  const base = window.location.origin + '/configs/';
-  let allData = {};
+  // Автоматически определяем базовый путь (для GitHub Pages и подпапок)
+  const basePath = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+  const baseUrl = window.location.origin + basePath + 'configs/';
+  
+  let allData = null;
   let currentSize = '50';
 
   async function loadData() {
+    const container = document.getElementById('configsList');
+    container.innerHTML = '<div class="loading">Загрузка конфигов...</div>';
+    
     try {
-      const res = await fetch(base + 'counts.json?t=' + Date.now());
-      if (!res.ok) throw new Error('counts.json не найден');
-      allData = await res.json();
+      // Добавляем случайный параметр, чтобы избежать кэширования
+      const res = await fetch(baseUrl + 'counts.json?t=' + Date.now());
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}: ${res.statusText}`);
+      }
+      const text = await res.text();
+      try {
+        allData = JSON.parse(text);
+      } catch (e) {
+        console.error('Ошибка парсинга JSON:', text);
+        throw new Error('Невалидный JSON в counts.json');
+      }
+      
+      // Проверяем структуру
+      if (!allData || typeof allData !== 'object') throw new Error('Нет данных');
       
       document.getElementById('totalCount').innerText = allData.totalUnique || 0;
-      
-      // Берём ссылки из JSON
-      if (allData.subscription) {
-        const sub = allData.subscription;
-        if (sub.support_url) {
-          const supportLink = document.getElementById('supportLink');
-          supportLink.href = sub.support_url;
-          supportLink.innerText = sub.support_url.replace('https://t.me/', '@');
-        }
-        if (sub.announce_url) {
-          const announceLink = document.getElementById('announceLink');
-          announceLink.href = sub.announce_url;
-          announceLink.innerText = sub.announce_url.replace('https://t.me/', '@');
-        }
-      }
       
       if (allData.updated) {
         const date = new Date(allData.updated);
         document.getElementById('updateTime').innerHTML = '🕐 Последнее обновление: ' + date.toLocaleString('ru-RU');
+      } else {
+        document.getElementById('updateTime').innerHTML = '🕐 Время обновления неизвестно';
       }
       
       renderConfigs();
     } catch(e) {
-      document.getElementById('configsList').innerHTML = '<div class="card">⚠️ Ошибка загрузки. Запустите Actions вручную.</div>';
       console.error(e);
+      container.innerHTML = `<div class="error">⚠️ Ошибка загрузки: ${e.message}<br><br>Убедитесь, что:<br>
+      1. Workflow GitHub Actions выполнился успешно.<br>
+      2. Файл configs/counts.json существует.<br>
+      3. Вы открываете страницу через GitHub Pages (или локальный сервер).</div>`;
     }
   }
 
   function renderConfigs() {
     const sizeData = allData[currentSize];
-    if (!sizeData) {
+    if (!sizeData || typeof sizeData !== 'object') {
       document.getElementById('configsList').innerHTML = '<div class="card">Нет данных для этого размера</div>';
       return;
     }
@@ -213,32 +193,50 @@
     }
     
     const container = document.getElementById('configsList');
-    container.innerHTML = files.map(([name, count]) => `
-      <div class="card">
+    container.innerHTML = '<div class="configs-grid"></div>';
+    const grid = container.querySelector('.configs-grid');
+    
+    files.forEach(([name, count]) => {
+      const fileUrl = `${baseUrl}${currentSize}/${name}.txt`;
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
         <div class="card-info">
           <h3>📁 ${name}.txt</h3>
-          <div class="size">🔹 ${count.toLocaleString()} конфигов в файле</div>
+          <div class="size">🔹 ${Number(count).toLocaleString()} конфигов в файле</div>
         </div>
-        <div class="url">${base}${currentSize}/${name}.txt</div>
-        <button onclick="copyUrl('${base}${currentSize}/${name}.txt')">📋 Копировать</button>
-      </div>
-    `).join('');
+        <div class="url">${escapeHtml(fileUrl)}</div>
+        <button onclick="copyUrl('${escapeHtml(fileUrl)}')">📋 Копировать</button>
+      `;
+      grid.appendChild(card);
+    });
   }
 
-  function copyUrl(url) {
+  function escapeHtml(str) {
+    return str.replace(/[&<>]/g, function(m) {
+      if (m === '&') return '&amp;';
+      if (m === '<') return '&lt;';
+      if (m === '>') return '&gt;';
+      return m;
+    });
+  }
+
+  window.copyUrl = function(url) {
     navigator.clipboard.writeText(url).then(() => {
       alert('✅ Ссылка скопирована!');
     }).catch(() => {
       alert('❌ Не удалось скопировать');
     });
-  }
+  };
 
+  // Фильтры
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       currentSize = btn.dataset.size;
-      renderConfigs();
+      if (allData) renderConfigs();
+      else loadData();
     });
   });
 
