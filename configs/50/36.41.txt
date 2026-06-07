@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 1_14 | часть 41 (строки 2001-2050 из 13792)
+ss://fe-_ve-_vWvvv73vv71577-9H--_vXtv77-977-977-9Zu-_vXXvv70677-9Tjk@104.17.162.123:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@51.250.9.25:7443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@57.129.137.56:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@45.82.251.208:8880#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@home.gymrent.eu:2030#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@104.21.13.210:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://6291cd3f-28a1-4288-80be-88267c9c10f0@185.232.152.92:8080/?encryption=none&flow=&type=tcp&headerType=http#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@185.232.152.92:8080#https%3A%2F%2Ft.me%2Fallproconf
+vless://773415e9-ca52-4076-bff5-68dbd29fe5a9@ip.hamrahto.com:2082/?type=ws&encryption=none&flow=&host=hm3333.mutee.com.tr&path=%2Fapi%2Fstream%3Fed%3D2080#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@ip.hamrahto.com:2082#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@104.17.151.230:80#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@45.67.215.133:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@104.16.240.27:80#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@172.66.47.2:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@172.66.44.237:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://7b5fec7a-c221-4054-835e-cc4620fff2ad@185.228.59.54:443/?encryption=none&flow=&host=ubisoft.com&type=tcp&headerType=http#https%3A%2F%2Ft.me%2Fallproconf
+ss://77-977-9X3nvv73vv71zbe-_ve-_vU5477-9fl5x77-9Ou-_vUfvv71_Zu-_vQ@185.228.59.54:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@31.43.179.0:8443/?type=grpc&encryption=none&flow=&serviceName=uSxLC4bWX3waYJMa2Crw7&security=tls&sni=a3.marandcity.com&alpn=h2&fp=chrome#%40meliproxyy
+vmess://eyJhZGQiOiJ6MzMubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiJhODE1OTZmOS02ODBmLTRmZDctOTI4ZS03NjdmYmQ2YTQ1YzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6IkBtZWxpcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@dir4.serviceali.ir:8443/?type=grpc&encryption=none&flow=&serviceName=uSxLC4bWX3waYJMa2Crw7&security=tls&sni=a3.marandcity.com&alpn=h2&fp=chrome#%40meliproxyy
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@dir4.serviceali.ir:2096/?type=grpc&encryption=none&flow=&serviceName=uSxLC4bWX3waYJMa2Crw7&security=tls&sni=a3.marandcity.com&alpn=h2&fp=chrome#%40meliproxyy
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@snapp.ir.www.google.com.tappsi.ir.digikala.ir.1.1.1.1.iranfilmbartar.com.mci.ir.iranfilmbartar.com:8443/?type=grpc&encryption=none&flow=&serviceName=uSxLC4bWX3waYJMa2Crw7&security=tls&sni=a3.marandcity.com&alpn=h2&fp=chrome#%40meliproxyy
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@31.43.179.0:2096/?type=grpc&encryption=none&flow=&serviceName=uSxLC4bWX3waYJMa2Crw7&security=tls&sni=a3.marandcity.com&alpn=h2&fp=chrome#%40meliproxyy
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80/?type=ws&encryption=none&flow=&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=%2F%3Fed#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40proxy_kafee
+vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443/?type=tcp&encryption=none&flow=&sni=learn.microsoft.com&fp=firefox&security=reality&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&sid=6ed3324b#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40proxy_kafee
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#%F0%9F%87%A9%F0%9F%87%AA%40
+vless://201dc832-fe31-4fd5-b453-6c401fc14477@ip2.gptban.com:80/?type=xhttp&encryption=none&flow=#Telegram%3A%40config_proxy%20%F0%9F%94%A5
+vless://51158d3a-e56e-45ee-8705-67cdc7ffef7d@109.122.247.27:2041/?encryption=none&flow=&host=parsabr.com&type=tcp&headerType=http#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%40famoushaji
+vless://ff734a9e-63a9-4916-b0d1-e757042b1c6f@fsx.azangooo.ir:80/?type=xhttp&encryption=none&flow=#Telegram%3A%40config_proxy%20%F0%9F%94%A5
+vless://ff734a9e-63a9-4916-b0d1-e757042b1c6f@se.maf-rehbos.ir:6662/?encryption=none&flow=&type=tcp&headerType=http#Telegram%3A%40config_proxy%20%F0%9F%94%A5
+vless://b39af306-2967-4b68-931e-f78a8065678e@pol2.creativelife.monster:49873/?type=tcp&encryption=none&flow=#Telegram%3A%40config_proxy%20%F0%9F%94%A5
+vless://ff734a9e-63a9-4916-b0d1-e757042b1c6f@ch.maf-rehbos.ir:6665/?encryption=none&flow=&type=tcp&headerType=http#Telegram%3A%40config_proxy%20%F0%9F%94%A5
+ss://77-91ppt77-977-9e--_vTrjvbbvv73vv7111702ce-_vX3vv73vv70@37.46.134.53:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@z1.n1server.org:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://a30b5844-0e5f-4e13-acab-178568031167@oeoc.net2eset.com:32626/?type=ws&encryption=none&flow=&path=%2F#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@oeoc.net2eset.com:32626#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@104.16.188.2:8880#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@108.162.198.154:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443/?type=tcp&encryption=none&flow=&sni=api.company-target.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@47.80.11.87:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://63b0e238-5745-4d57-b9ca-e064e8b5ce30@ir10.mamfilm.site:3134/?type=ws&encryption=none&flow=&path=%2F#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@ir10.mamfilm.site:3134#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@172.64.144.74:443#https%3A%2F%2Ft.me%2Fallproconf
+vless://a5712440-3cec-4a1b-82e8-767c54acd83a@104.18.32.47:80/?type=ws&encryption=none&flow=&host=authENTIC-cABinEtgqc4XfW2ud.spORTLAND.COmPAny.&path=%2F%3Fed#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@104.18.32.47:80#https%3A%2F%2Ft.me%2Fallproconf
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.153:38388#https%3A%2F%2Ft.me%2Fallproconf
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.229:38388#https%3A%2F%2Ft.me%2Fallproconf
+ss://bnVsbDpudWxs@165.232.129.138:443#https%3A%2F%2Ft.me%2Fallproconf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#https%3A%2F%2Ft.me%2Fallproconf
+vless://1d5b23fc-33fe-421a-bbc8-5ed39185bf23@rubygems.org:80/?type=xhttp&encryption=none&flow=#https%3A%2F%2Ft.me%2Fallproconf

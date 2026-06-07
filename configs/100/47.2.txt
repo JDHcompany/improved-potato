@@ -3,10 +3,7 @@
 # subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
 # support-url: https://t.me/freevpnconf_bot
 # announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 28.2 | часть 2 (строки 101-138 из 138)
-vless://putin-zelencky-41@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
-vless://putin-zelencky-42@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
-vless://putin-zelencky-43@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
+# 23.2 | часть 2 (строки 101-135 из 135)
 vless://putin-zelencky-44@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
 vless://putin-zelencky-45@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
 vless://putin-zelencky-50@me.colorbox.space:80?type=ws&sni=me.colorbox.space#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D

@@ -1,0 +1,56 @@
+# profile-title: 🎁improved-potatoVPN💩
+# profile-update-interval: 1
+# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
+# support-url: https://t.me/freevpnconf_bot
+# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
+# 20.2 | часть 25 (строки 1201-1250 из 1986)
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&sni=172.236.220.10#DE-172.236.220.10-0187
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?allowInsecure=0&sni=ch-2.bexum.fun#CZ-46.8.113.142-0182
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?allowInsecure=0#DE-172.238.120.124-0188
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#IN-65.20.90.225-0178
+trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?allowInsecure=0&sni=www.logger-guard.click#AR-130.94.107.171-0183
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#DE-91.233.8.138-0492
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=0&sni=www.directorypipeline.click#DE-185.137.157.254-0739
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?allowInsecure=0&sni=fra34.tracker-ws.click#DE-91.233.8.25-0790
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?allowInsecure=0&sni=172.237.145.189#%E7%BE%8E%E5%9B%BD%20Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9%202
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?allowInsecure=0#%E7%BE%8E%E5%9B%BD%20Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&sni=172.236.220.10#%E7%BE%8E%E5%9B%BD%20Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9%203
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%E5%BE%B7%E5%9B%BD%20starcorenode.com
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Btr-tl-ra%5D%20%5B260605-235858.638%5D
+trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?allowInsecure=0&sni=www.logger-guard.click#%5B%F0%9F%87%A6%F0%9F%87%B7%5D%20%5Btr-tl-ra%5D%20%5B260605-235903.428%5D
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?allowInsecure=0#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Btr-tl-ra%5D%20%5B260605-235903.272%5D
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Btr-tl-ra%5D%20%5B260605-235903.168%5D
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%5Btr-tl-ra%5D%20%5B260605-235859.360%5D
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%5B%F0%9F%87%AE%F0%9F%87%B3%5D%20%5Btr-tl-ra%5D%20%5B260605-235859.225%5D
+trojan://PtRV8to08i8FMsY.Uw7=yMuIaR3eVTGmvA@149.104.87.182:443?allowInsecure=0&sni=www.jewelapp.click#%5B%F0%9F%87%B2%F0%9F%87%BD%5D%20%5Btr-tl-ra%5D%20%5B260605-235858.949%5D
+trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?allowInsecure=0&sni=172.238.19.11#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Btr-tl-ra%5D%20%5B260605-235857.701%5D
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?allowInsecure=0&sni=www.selectnet.click#%5B%F0%9F%87%AE%F0%9F%87%B6%5D%20%5Btr-tl-ra%5D%20%5B260605-235859.412%5D
+trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?allowInsecure=0&sni=172.238.19.11#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Btr-tl-ra%5D%20%5B260605-235857.752%5D
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?allowInsecure=0&sni=www.node-finder.click#%5B%F0%9F%87%AE%F0%9F%87%A9%5D%20%5Btr-tl-ra%5D%20%5B260605-235902.692%5D
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?allowInsecure=0&sni=45.79.8.17#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Btr-tl-ra%5D%20%5B260605-235903.324%5D
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?allowInsecure=0&sni=172.237.145.189#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Btr-tl-ra%5D%20%5B260605-235857.299%5D
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#%5B%F0%9F%87%B5%F0%9F%87%B1%5D%20%5Btr-tl-ra%5D%20%5B260605-235902.098%5D
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?allowInsecure=0&sni=172.235.63.252#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Btr-tl-ra%5D%20%5B260605-235900.205%5D
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?allowInsecure=0&sni=www.registry-monitor.click#%5B%F0%9F%87%B5%F0%9F%87%B0%5D%20%5Btr-tl-ra%5D%20%5B260605-235857.594%5D
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?allowInsecure=0&sni=172.235.63.252#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Btr-tl-ra%5D%20%5B260605-235900.153%5D
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?allowInsecure=0&sni=172.236.220.10#%E7%BE%8E%E5%9B%BD%20Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9%204
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#DE_5fab5_0011
+trojan://!
+trojan://!#
+trojan://!str111111@www.cjf0423.cf:443#
+trojan://!str123456@45.64.22.56:443#
+trojan://!str123456@trojan-ctb-sg01.globalssh.xyz:443#
+trojan://!str123456@trojan-ctb-sg01.globalssh.xyz:443?sni=support.zoom.us.trojan-ctb-sg01.globalssh.xyz#
+trojan://!str18844@zxcvbn@os-tr-1.cats22.net:443#
+trojan://!str18844@zxcvbn@os-tr-2.cats22.net:443#
+trojan://!str18844@zxcvbn@os-tr-3.cats22.net:443#
+trojan://!str18844@zxcvbn@os-tr-5.cats22.net:443#
+trojan://!str18844@zxcvbn@teradacyou.mike22.net:443#
+trojan://!str1919810@trojanjp.hktkcloud.cloud:443#
+trojan://!str2531454360@ssl.aeccg.cn:443#
+trojan://!str2531454360@ssl.aeccg.cn:443?sni=support.zoom.us.ssl.aeccg.cn#
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=anten.ir#
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=%2FeyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev#
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&peer=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&security=tls#
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?type=ws&security=tls&path=%2FeyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
