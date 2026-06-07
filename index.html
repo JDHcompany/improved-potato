@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>VPN конфиги</title>
+  <title>improved-potatoVPN</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -21,6 +21,27 @@
       -webkit-text-fill-color: transparent;
     }
     .sub { color: #71717a; margin-bottom: 2rem; }
+    
+    .info-bar {
+      background: linear-gradient(145deg, #16161b 0%, #121216 100%);
+      border: 1px solid #06b6d440;
+      border-radius: 1rem;
+      padding: 1rem 1.5rem;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+    .info-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.85rem;
+    }
+    .info-item a { color: #06b6d4; text-decoration: none; }
+    .info-item a:hover { text-decoration: underline; }
     
     .filters {
       display: flex;
@@ -102,13 +123,21 @@
     @media (max-width: 700px) {
       .card { flex-direction: column; align-items: stretch; }
       .url { text-align: center; }
+      .info-bar { flex-direction: column; text-align: center; }
     }
   </style>
 </head>
 <body>
 <div class="container">
-  <h1>📡 Мои VPN конфиги</h1>
+  <h1>🎁 improved-potatoVPN 💩</h1>
   <p class="sub">Нарезка по 50 / 100 / 200 / 300 строк | Обновляется каждый час</p>
+
+  <div class="info-bar" id="infoBar">
+    <div class="info-item">🔄 Обновление: 1 час</div>
+    <div class="info-item">💾 Безлимит</div>
+    <div class="info-item">📢 Support: <a href="#" id="supportLink" target="_blank">Telegram</a></div>
+    <div class="info-item">📢 Announce: <a href="#" id="announceLink" target="_blank">Telegram</a></div>
+  </div>
 
   <div class="stats">
     <div class="number" id="totalCount">—</div>
@@ -142,6 +171,21 @@
       allData = await res.json();
       
       document.getElementById('totalCount').innerText = allData.totalUnique || 0;
+      
+      // Обновляем ссылки из JSON
+      if (allData.subscription) {
+        const sub = allData.subscription;
+        if (sub.support_url) {
+          const supportLink = document.getElementById('supportLink');
+          supportLink.href = sub.support_url;
+          supportLink.innerText = sub.support_url.replace('https://t.me/', '@');
+        }
+        if (sub.announce_url) {
+          const announceLink = document.getElementById('announceLink');
+          announceLink.href = sub.announce_url;
+          announceLink.innerText = sub.announce_url.replace('https://t.me/', '@');
+        }
+      }
       
       if (allData.updated) {
         const date = new Date(allData.updated);
