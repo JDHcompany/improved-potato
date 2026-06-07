@@ -30,7 +30,7 @@ jobs:
             name=$(basename "$config" .txt)
             echo "Режу: $name"
             
-            # Извлекаем строки конфигов (vless, trojan, vmess, ss, hy2)
+            # Извлекаем строки конфигов
             grep -E '^(vless|trojan|vmess|ss|hy2)://' "$config" > filtered.txt || true
             total=$(wc -l < filtered.txt)
             
@@ -49,13 +49,13 @@ jobs:
                 
                 output="configs/${size}/${i}.${part}.txt"
                 
-                # Записываем метаданные (как в примере OutlineVPN)
+                # Метаданные (как в OutlineVPN)
                 {
                   echo "# profile-title: 🎁improved-potatoVPN💩"
                   echo "# profile-update-interval: 1"
                   echo "# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800"
                   echo "# support-url: https://t.me/freevpnconf_bot"
-                  echo "# announce: Бот с бесплатными конфигами: https://t.me/freevpnconf_bot"
+                  echo "# announce: Анонсы и реклама: https://t.me/freevpnconf_bot"
                   echo "# $name | часть $part (строки $start-$end из $total)"
                   sed -n "${start},${end}p" filtered.txt
                 } > "$output"
@@ -71,28 +71,37 @@ jobs:
           
           echo "Готово! Обработано конфигов: $((i-1))"
 
-      - name: Создать counts.json
+      - name: Создать counts.json (валидный JSON)
         run: |
           echo '{' > configs/counts.json
-          echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' » configs/counts.json
+          echo '  "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",' >> configs/counts.json
           
           for size in 50 100 200 300; do
-            echo "  \"$size\": {" » configs/counts.json
+            echo "  \"$size\": {" >> configs/counts.json
+            first=1
             for file in configs/$size/*.txt; do
               if [ -f "$file" ]; then
                 name=$(basename "$file" .txt)
-                # Считаем только строки, начинающиеся с протокола (игнорируем комментарии #)
-                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file" 2>/dev/null || echo 0)
-                echo "    \"$name\": $count," » configs/counts.json
+                count=$(grep -cE '^(vless|trojan|vmess|ss|hy2)://' "$file' 2>/dev/null || echo 0)
+                if [ $first -eq 1 ]; then
+                  first=0
+                else
+                  echo "," >> configs/counts.json
+                fi
+                echo -n "    \"$name\": $count" >> configs/counts.json
               fi
             done
-            echo "  }," » configs/counts.json
+            echo "" >> configs/counts.json
+            echo "  }," >> configs/counts.json
           done
           
           total=$(cat configs/*/*.txt 2>/dev/null | grep -cE '^(vless|trojan|vmess|ss|hy2)://' || echo 0)
-          echo '  "totalUnique": '$total'' » configs/counts.json
-          echo '}' » configs/counts.json
+          echo '  "totalUnique": '$total'' >> configs/counts.json
+          echo '}' >> configs/counts.json
+          
           echo "totalUnique: $total"
+          echo "Проверка JSON:"
+          cat configs/counts.json | python3 -m json.tool || echo "Ошибка JSON"
 
       - name: Сохранить в репозиторий
         run: |
