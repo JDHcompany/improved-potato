@@ -126,7 +126,7 @@
     <button class="filter-btn" data-type="normal" data-size="100">📄 100 строк</button>
     <button class="filter-btn" data-type="normal" data-size="200">📄 200 строк</button>
     <button class="filter-btn" data-type="normal" data-size="300">📄 300 строк</button>
-    <button class="filter-btn" data-type="best" data-size="200">⭐ Лучшие (по пингу) 200</button>
+    <button class="filter-btn" data-type="best" data-size="50">⭐ Лучшие (по пингу) 50</button>
   </div>
 
   <div id="configsList" class="loading">Загрузка конфигов...</div>
@@ -134,7 +134,7 @@
   <div class="footer">
     🔹 Нажми на кнопку, чтобы скопировать ссылку<br>
     🔹 Каждый файл содержит до указанного количества строк<br>
-    🔹 "Лучшие" – до 1000 конфигов с наименьшим пингом (обновляется раз в час)
+    🔹 "Лучшие" – до 200 конфигов с наименьшим пингом (обновляется раз в час), нарезаны по 50
   </div>
 </div>
 
@@ -231,7 +231,7 @@
     for (const [name, count] of files) {
       let fileUrl;
       if (currentType === 'best') {
-        fileUrl = `${activeBaseUrl.replace(/\/configs\/$/, '')}/best/200/${name}.txt`;
+        fileUrl = `${activeBaseUrl.replace(/\/configs\/$/, '')}/best/50/${name}.txt`;
       } else {
         fileUrl = `${activeBaseUrl}${currentSize}/${name}.txt`;
       }
@@ -272,11 +272,7 @@
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
         currentType = btn.dataset.type;
-        if (currentType === 'best') {
-          currentSize = btn.dataset.size; // будет 200
-        } else {
-          currentSize = btn.dataset.size;
-        }
+        currentSize = btn.dataset.size;
         if (allData) renderConfigs();
       });
     });
