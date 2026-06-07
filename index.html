@@ -121,49 +121,42 @@
     <div>всего уникальных серверов</div>
   </div>
 
-  <div class="filters">
-    <button class="filter-btn active" data-size="50">📄 50 строк</button>
-    <button class="filter-btn" data-size="100">📄 100 строк</button>
-    <button class="filter-btn" data-size="200">📄 200 строк</button>
-    <button class="filter-btn" data-size="300">📄 300 строк</button>
+  <div class="filters" id="mainFilters">
+    <button class="filter-btn active" data-type="normal" data-size="50">📄 50 строк</button>
+    <button class="filter-btn" data-type="normal" data-size="100">📄 100 строк</button>
+    <button class="filter-btn" data-type="normal" data-size="200">📄 200 строк</button>
+    <button class="filter-btn" data-type="normal" data-size="300">📄 300 строк</button>
+    <button class="filter-btn" data-type="best" data-size="200">⭐ Лучшие (по пингу) 200</button>
   </div>
 
   <div id="configsList" class="loading">Загрузка конфигов...</div>
   <div class="update-time" id="updateTime"></div>
   <div class="footer">
     🔹 Нажми на кнопку, чтобы скопировать ссылку<br>
-    🔹 Каждый файл содержит до указанного количества строк
+    🔹 Каждый файл содержит до указанного количества строк<br>
+    🔹 "Лучшие" – до 1000 конфигов с наименьшим пингом (обновляется раз в час)
   </div>
 </div>
 
 <script>
-  // Список возможных путей для поиска configs/
-  // Порядок важен: сначала относительный от текущей страницы, потом корневой, потом прямой деплой
   function getPossibleBaseUrls() {
     const origin = window.location.origin;
     const path = window.location.pathname;
-    // Текущий путь к директории, где лежит index.html
     let currentDir = path.substring(0, path.lastIndexOf('/') + 1);
     if (currentDir === '') currentDir = '/';
-    
-    const urls = [
-      origin + currentDir + 'configs/',           // /repo-name/configs/ или /configs/
-      origin + '/configs/',                       // /configs/ (если сайт в корне)
-      origin + currentDir + 'configs/',           // дубль, но оставим
-    ];
-    // Убираем дубликаты
-    return [...new Set(urls)];
+    return [origin + currentDir + 'configs/', origin + '/configs/'];
   }
 
   let activeBaseUrl = null;
   let allData = null;
+  let currentType = 'normal';   // 'normal' или 'best'
   let currentSize = '50';
 
   async function loadData() {
     const container = document.getElementById('configsList');
     const totalSpan = document.getElementById('totalCount');
     totalSpan.innerText = '—';
-    container.innerHTML = '<div class="loading">🔍 Поиск configs/counts.json...</div>';
+    container.innerHTML = '<div class="loading">🔍 Загрузка...</div>';
     
     const possibleUrls = getPossibleBaseUrls();
     let lastError = null;
@@ -171,50 +164,30 @@
     for (const base of possibleUrls) {
       try {
         const jsonUrl = base + 'counts.json?t=' + Date.now();
-        console.log('Пробуем загрузить:', jsonUrl);
-        const response = await fetch(jsonUrl);
-        if (!response.ok) throw new Error(`HTTP ${response.status} ${response.statusText}`);
-        const text = await response.text();
-        // Пробуем распарсить JSON
-        let data;
-        try {
-          data = JSON.parse(text);
-        } catch(e) {
-          throw new Error('Ошибка парсинга JSON: ' + e.message + '\nПервые 200 символов: ' + text.substring(0,200));
-        }
-        // Успех
+        console.log('Пробуем:', jsonUrl);
+        const res = await fetch(jsonUrl);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+        const data = JSON.parse(text);
         activeBaseUrl = base;
         allData = data;
-        console.log('Успешно загружено с:', activeBaseUrl);
+        console.log('Загружено с', activeBaseUrl);
         break;
       } catch (err) {
-        console.warn('Не удалось загрузить с', base, err);
+        console.warn(err);
         lastError = err;
       }
     }
     
     if (!allData) {
       container.innerHTML = `<div class="error">
-        ❌ Не удалось загрузить configs/counts.json<br><br>
-        Проверьте:
-        <ul style="text-align: left; display: inline-block; margin-top: 10px;">
-          <li>✅ Запущен ли GitHub Actions (вкладка Actions)</li>
-          <li>✅ Есть ли папка configs/ с подпапками 50/, 100/, 200/, 300/</li>
-          <li>✅ Включён ли GitHub Pages (Settings → Pages → Branch: main, /root)</li>
-          <li>✅ Открыта ли страница через HTTPS (не file://)</li>
-        </ul>
-        <div class="debug">
-          Пытались загрузить:<br>
-          ${possibleUrls.map(u => u + 'counts.json').join('<br>')}
-          <br><br>
-          Последняя ошибка: ${lastError ? lastError.message : 'неизвестно'}
-        </div>
-        <button class="retry-btn" onclick="location.reload()">🔄 Повторить загрузку</button>
+        ❌ Не удалось загрузить configs/counts.json<br>
+        <div class="debug">Последняя ошибка: ${lastError?.message || 'неизвестно'}</div>
+        <button class="retry-btn" onclick="location.reload()">🔄 Повторить</button>
       </div>`;
       return;
     }
     
-    // Отображаем общее количество уникальных серверов
     const totalUnique = allData.totalUnique || 0;
     totalSpan.innerText = totalUnique.toLocaleString();
     
@@ -229,30 +202,45 @@
   }
   
   function renderConfigs() {
-    const sizeData = allData[currentSize];
-    if (!sizeData || typeof sizeData !== 'object') {
-      document.getElementById('configsList').innerHTML = '<div class="card">Нет данных для этого размера</div>';
-      return;
+    const container = document.getElementById('configsList');
+    
+    let sizeData;
+    if (currentType === 'best') {
+      sizeData = allData.best;
+      if (!sizeData) {
+        container.innerHTML = '<div class="card">Нет данных для лучших конфигов (возможно, пинг ещё не выполнен)</div>';
+        return;
+      }
+    } else {
+      sizeData = allData[currentSize];
+      if (!sizeData) {
+        container.innerHTML = '<div class="card">Нет данных для этого размера</div>';
+        return;
+      }
     }
     
     const files = Object.entries(sizeData);
     if (files.length === 0) {
-      document.getElementById('configsList').innerHTML = '<div class="card">Нет файлов для этого размера</div>';
+      container.innerHTML = '<div class="card">Нет файлов для выбранного типа</div>';
       return;
     }
     
-    const container = document.getElementById('configsList');
     container.innerHTML = '<div class="configs-grid"></div>';
     const grid = container.querySelector('.configs-grid');
     
     for (const [name, count] of files) {
-      const fileUrl = `${activeBaseUrl}${currentSize}/${name}.txt`;
+      let fileUrl;
+      if (currentType === 'best') {
+        fileUrl = `${activeBaseUrl.replace(/\/configs\/$/, '')}/best/200/${name}.txt`;
+      } else {
+        fileUrl = `${activeBaseUrl}${currentSize}/${name}.txt`;
+      }
       const card = document.createElement('div');
       card.className = 'card';
       card.innerHTML = `
         <div class="card-info">
           <h3>📁 ${escapeHtml(name)}.txt</h3>
-          <div class="size">🔹 ${Number(count).toLocaleString()} конфигов в файле</div>
+          <div class="size">🔹 ${Number(count).toLocaleString()} конфигов</div>
         </div>
         <div class="url">${escapeHtml(fileUrl)}</div>
         <button onclick="copyUrl('${escapeHtml(fileUrl)}')">📋 Копировать</button>
@@ -278,13 +266,17 @@
     });
   };
   
-  // Навешиваем фильтры
   function initFilters() {
     document.querySelectorAll('.filter-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        currentSize = btn.dataset.size;
+        currentType = btn.dataset.type;
+        if (currentType === 'best') {
+          currentSize = btn.dataset.size; // будет 200
+        } else {
+          currentSize = btn.dataset.size;
+        }
         if (allData) renderConfigs();
       });
     });
