@@ -1,0 +1,36 @@
+name: Hourly VPN Parser
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Каждый час
+  workflow_dispatch: # Возможность запустить вручную кнопкой
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  run-parser:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/tools/python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Parser Script
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python parser.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add configs/ best_configs.txt
+          git commit -m "🤖 Автоматическое обновление конфигураций" || echo "Нет изменений для коммита"
+          git push
