@@ -1,0 +1,7 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://903fdb5b-fdb8-0005-8c23-9a8dc5f8c676@02:443?security=reality&encryption=none&echfq=none&pbk=hZ6F8F0m5c_Moi3O8_f8Id7xNdggcJXR4Yf37fAvEn0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=74c6b39c962e10ca#🍀improvedVPN [1]
+vless://903fdb5b-fdb8-0002-8c23-9a8dc5f8c676@84.201.170.202:443?security=reality&encryption=none&echfq=none&pbk=hZ6F8F0m5c_Moi3O8_f8Id7xNdggcJXR4Yf37fAvEn0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=74c6b39c962e10ca#🍀improvedVPN [2]

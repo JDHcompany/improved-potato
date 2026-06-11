@@ -1,0 +1,9 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://jji@1.2.3.4:2627?security=j#🍀improvedVPN [1]
+vless://jji@1.2.3.4:2627?security=j#🍀improvedVPN [2]
+vless://jji@1.2.3.4:2627?security=j#🍀improvedVPN [3]
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.252:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&allowinsecure=0&type=ws&sni=top707762634.mwscdn.ru#🍀improvedVPN [4]

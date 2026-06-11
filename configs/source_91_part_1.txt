@@ -1,0 +1,25 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.24.222:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [1]
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@82.97.240.183:7443?type=tcp&security=reality&sni=rutube.ru&fp=firefox&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#🍀improvedVPN [2]
+vless://512f01f4-d8fc-4a78-96a0-5d9ebebe35b9@de-dp-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9&flow=xtls-rprx-vision#🍀improvedVPN [3]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [4]
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@82.97.240.183:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=rutube.ru#🍀improvedVPN [5]
+vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs#🍀improvedVPN [6]
+vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&spx=%2F#🍀improvedVPN [7]
+vless://8c91104d-0fc1-001f-9a03-0bfada9d589e@217.16.20.61:443?flow=xtls-rprx-vision&fp=firefox&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=eh.vk.com&type=tcp#🍀improvedVPN [8]
+vless://084cd94d-4f42-472a-a68a-19b3f733a7a9@5.180.183.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&security=reality&sni=admin.tau.vk.ru&type=tcp#🍀improvedVPN [9]
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=08000000#🍀improvedVPN [10]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.17.80:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [11]
+vless://d91397a6-aa9c-4ce3-903e-81c50e14fdaf@45.198.87.30:8443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#🍀improvedVPN [12]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [13]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [14]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [15]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [16]
+vless://38f79be5-639a-4697-a780-82ae364493e7@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🍀improvedVPN [17]
+vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@45.91.55.234:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=rutube.ru#🍀improvedVPN [18]
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@45.198.105.196:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sni=storage.yandex.net&sid=500aec9e9e5e2212#🍀improvedVPN [19]
+vless://1dfd369b-d13c-4a2d-89e8-60961656d1ce@109.237.98.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uAabfPYujQGS9CY-h1on-TOtHU-y-vrumPXWo6G6AVg&sid=e92d8fca&sni=api-maps.yandex.ru&spx=%2FZ3n3VfMdMT9bjWg#🍀improvedVPN [20]

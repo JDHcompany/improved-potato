@@ -1,0 +1,14 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@51.250.9.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [1]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@fi-hel-hostvds-05.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [2]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@fi-hel-hostvds-06.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [3]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@fi-hel-hostvds-07.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [4]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@ru-msk-tmw-50.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [5]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@ru-msk-fvds-71.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [6]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@ru-msk-fvds-72.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [7]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@bridge.pool.sssrvpn.pro:8454?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [8]
+vless://13ab7444-2956-46a4-acf1-7f1d9d099381@bridge.pool.sssrvpn.pro:8446?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🍀improvedVPN [9]

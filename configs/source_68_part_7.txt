@@ -1,0 +1,13 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=brus.speedload.online&type=tcp#🍀improvedVPN [1201]
+vless://7eb4a87d-e22f-4eb3-a793-ee3d6200fdc6@107.181.147.22:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&security=reality&sid=a6aef5143d94&sni=www.microsoft.com&type=tcp#🍀improvedVPN [1202]
+vless://8c769e56-4d5b-45c3-a175-f1676ce2dd1c@37.139.33.52:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=itChlzYnj7xu0-o776CzSu4BECllDKkrpsKVlNT5Fw0&security=reality&sid=1de6f79b957b8b5c&sni=m.vk.com&type=tcp#🍀improvedVPN [1203]
+vless://eae6272d-eb72-4b49-b6e4-13b3699011c8@78.159.247.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QqfJ_0Vmng4IZVFl9ZeowP--Ro-RksgYIlCnvfVmlEg&security=reality&sid=736225&sni=rutube.ru&type=tcp#🍀improvedVPN [1204]
+vless://e908b2be-1a22-41ec-8f28-a2a842c5471a@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=ozon.ru&type=tcp#🍀improvedVPN [1205]
+vless://80115515-eb00-4d28-8f02-66b3e3e6a515@212.111.84.187:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.ru&type=tcp#🍀improvedVPN [1206]
+vless://d4d031ec-0ba6-486a-aa0c-dce2b7cb8933@212.111.84.187:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.ru&type=tcp#🍀improvedVPN [1207]
+vless://e908b2be-1a22-41ec-8f28-a2a842c5471a@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=ozon.ru&type=tcp#🍀improvedVPN [1208]

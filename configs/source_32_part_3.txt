@@ -1,0 +1,18 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@185.242.19.249:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=auto&path=%2Fxhttppath&security=tls&encryption=none&extra=null&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=top4182166920.mwscdn.ru#🍀improvedVPN [401]
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top4182166920.mwscdn.ru#🍀improvedVPN [402]
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@185.242.19.250:443?type=xhttp&security=tls&sni=top4182166920.mwscdn.ru&path=%2Fxhttppath&mode=auto#🍀improvedVPN [403]
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=loadtest.dev.urent.ru&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048#🍀improvedVPN [404]
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?type=grpc&security=reality&encryption=none&sni=loadtest.dev.urent.ru&fp=chrome&alpn=http%2F1.1&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048&headerType=none&serviceName=grpc&allowInsecure=1#🍀improvedVPN [405]
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#🍀improvedVPN [406]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.102.69:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [407]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.103.104:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [408]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.104.246:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [409]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.24.222:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [410]
+vless://b3748ba5-3aa6-4e95-98d9-60901cb3ccdc@51.250.24.232:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🍀improvedVPN [411]
+vless://4075d9b3-39ff-48dd-a23f-a95ec76deef6@217.16.31.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=2533f2fb6230#🍀improvedVPN [412]
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@130.12.242.112:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=be0ce047&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none%C2%ACe%3DTelegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#🍀improvedVPN [413]

@@ -1,0 +1,9 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#🍀improvedVPN [1]
+vless://6a02a47b-ebbf-4593-8460-558330c04189@lt-modx.nodexphere.net:443?security=reality&encryption=none&pbk=cc2mDH9C31IlAwrn1eEhbuzZ3l4Ijw3mKl7rF75GUDo&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lt-modx.nodexphere.net#🍀improvedVPN [2]
+vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@37.220.163.98:443?path=%2Fstorage&security=tls&encryption=none&host=s95410.cdn.ngenix.net&fp=safari&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#🍀improvedVPN [3]
+vless://6a02a47b-ebbf-4593-8460-558330c04189@pl-modx.nodexphere.net:443?security=reality&encryption=none&pbk=_S6MJ2-dROx_X7rUM_Gnh01MPAVVgnB0_x0t4_2XuVc&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.nodexphere.net#🍀improvedVPN [4]

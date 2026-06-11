@@ -1,0 +1,10 @@
+# Название: 🍟improved-potatoVPN
+# Безлимит без ограничений 
+# Ссылка на бота: потом уставлю
+# Реклама тгк: Мой ТГК потом вставлю 2
+
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.5:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🍀improvedVPN [201]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:443?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=grpc-tunnel&allowInsecure=0&sni=api3.dropmefile.net#🍀improvedVPN [202]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.143.70:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc-tunnel&allowInsecure=0&sni=api2.dropmefile.net#🍀improvedVPN [203]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=ad7dab462a323acb#🍀improvedVPN [204]
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@api3.dropmefile.net:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc-tunnel&allowInsecure=0&sni=api3.dropmefile.net#🍀improvedVPN [205]
