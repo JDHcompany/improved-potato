@@ -13,8 +13,8 @@ METADATA = """# Название: 🍟improved-potatoVPN
 
 """
 
-def ping_host(host, port, timeout=2):
-    """Простая TCP проверка доступности (пинг)"""
+def ping_host(host, port, timeout=1.5):
+    """Простая TCP проверка доступности (пинг) с уменьшенным таймаутом"""
     try:
         socket.setdefaulttimeout(timeout)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -29,7 +29,6 @@ def parse_config(config_str):
     try:
         if not config_str.startswith("vless://"):
             return None
-        # Простой парсинг строки
         parts = config_str.split("@")
         if len(parts) < 2: return None
         host_port_part = parts[1].split("?")[0].split("#")[0]
@@ -42,13 +41,11 @@ def parse_config(config_str):
         return None
 
 def rename_and_format(config_str, index):
-    """Меняет имя конфигурации (после знака #)"""
+    """Меняет имя конфигурации"""
     try:
         parsed = urlparse(config_str)
         query = parse_qs(parsed.query)
         new_name = f"🍀improvedVPN [{index}]"
-        
-        # Пересобираем URL с новым фрагментом (именем)
         new_url = urlunparse((
             parsed.scheme, parsed.netloc, parsed.path,
             parsed.params, urlencode(query, doseq=True), new_name
@@ -58,66 +55,69 @@ def rename_and_format(config_str, index):
         return config_str
 
 def process_sources():
+    print("🚀 Старт обработки источников...")
     os.makedirs("configs", exist_ok=True)
     if not os.path.exists("sources.txt"):
         with open("sources.txt", "w") as f: f.write("")
-        print("Создан пустой файл sources.txt. Добавьте туда ссылки.")
+        print("❌ Файл sources.txt пуст!")
         return
 
     with open("sources.txt", "r") as f:
         sources = [line.strip() for line in f if line.strip()]
 
+    print(f"📖 Найдено источников в файле: {len(sources)}")
     all_files_performance = []
 
     for src_idx, source in enumerate(sources):
+        print(f"🌐 Скачиваю источник №{src_idx + 1}: {source[:50]}...")
         try:
             req = urllib.request.Request(source, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req) as response:
+            with urllib.request.urlopen(req, timeout=15) as response:
                 content = response.read().decode('utf-8')
         except Exception as e:
-            print(f"Ошибка при скачивании {source}: {e}")
+            print(f"⚠️ Ошибка при скачивании {source}: {e}")
             continue
 
-        # Собираем только vless конфигурации
         configs = [line.strip() for line in content.splitlines() if line.strip().startswith("vless://")]
+        print(f"✅ Найдено vless-конфигов в источнике: {len(configs)}")
         if not configs:
             continue
 
-        # Разбиваем на части по 200 штук
         chunk_size = 200
         for chunk_idx, i in enumerate(range(0, len(configs), chunk_size)):
             chunk = configs[i:i + chunk_size]
             file_configs = []
             valid_count = 0
 
+            print(f"📦 Обработка пачки {chunk_idx + 1} (размер: {len(chunk)})")
+            
+            # Для ускорения пингуем не все 200, а только первые 20 штук из пачки для оценки качества
+            configs_to_ping = chunk[:20]
+
             for item_idx, config in enumerate(chunk):
                 global_idx = i + item_idx + 1
                 formatted_config = rename_and_format(config, global_idx)
                 file_configs.append(formatted_config)
                 
-                # Проверка пинга
+            # Быстрая проверка пинга для выборки
+            for config in configs_to_ping:
                 net_info = parse_config(config)
                 if net_info and ping_host(net_info[0], net_info[1]):
                     valid_count += 1
 
-            # Формируем имя файла
             filename = f"configs/source_{src_idx + 1}_part_{chunk_idx + 1}.txt"
             
-            # Запись в файл с метаданными
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(METADATA)
                 f.write("\n".join(file_configs))
 
-            # Считаем "качество" файла по проценту живых конфигов
-            success_rate = valid_count / len(chunk) if chunk else 0
+            success_rate = valid_count / len(configs_to_ping) if configs_to_ping else 0
             all_files_performance.append((filename, success_rate))
 
-    # Выявляем 2 лучших файла
+    print("📊 Выявляем лучшие конфиги...")
     all_files_performance.sort(key=lambda x: x[1], reverse=True)
     best_files = all_files_performance[:2]
 
-    # Сохраняем ссылки на них в закодированном Base64 виде
-    # Предполагается базовый URL вашего GitHub Pages (изменится автоматически при работе)
     repo_owner = os.getenv("GITHUB_REPOSITORY_OWNER", "username")
     repo_name = os.getenv("GITHUB_REPOSITORY", "repo").split("/")[-1]
     base_url = f"https://{repo_owner}.github.io/{repo_name}/"
@@ -126,10 +126,11 @@ def process_sources():
     for file_path, _ in best_files:
         best_urls_content += f"{base_url}{file_path}\n"
 
-    # Кодируем результат в base64
     b64_content = base64.b64encode(best_urls_content.encode('utf-8')).decode('utf-8')
     with open("best_configs.txt", "w", encoding="utf-8") as f:
         f.write(b64_content)
+    
+    print("🎉 Все процессы успешно завершены!")
 
 if __name__ == "__main__":
     process_sources()
