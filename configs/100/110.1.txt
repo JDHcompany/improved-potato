@@ -1,7 +1,0 @@
-# profile-title: 🎁improved-potatoVPN💩
-# profile-update-interval: 1
-# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
-# support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# RKP_work | часть 1 (строки 1-1 из 1)
-vless://fb89a947-0d5b-43b2-982e-20b89d48d161@51.250.96.237:443?encryption=none&fp=chrome&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&security=reality&sid=cc015aacdfd7cfd7&sni=ads.x5.ru&type=grpc#Конфиги съели модераторы Кибернасрала

@@ -1,8 +1,0 @@
-# profile-title: 🎁improved-potatoVPN💩
-# profile-update-interval: 1
-# subscription-userinfo: upload=9999999999999999999; download=0; total=9999999999999999999; expire=4102444800
-# support-url: https://t.me/freevpnconf_bot
-# announce: Анонсы и реклама: https://t.me/freevpnconf_bot
-# 21.2 | часть 18 (строки 1701-1702 из 1702)
-trojan://telegram-id-privatevpns@35.158.230.241:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@13.39.177.190:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
